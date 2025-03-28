@@ -1,16 +1,16 @@
 /* Fonts */
 @font-face {
     font-family: 'Raleway';
-    src: url('/public/fonts/Raleway/Raleway-VariableFont_wght.ttf');
+    src: url('./public/fonts/Raleway/Raleway-VariableFont_wght.ttf');
 }
 @font-face {
     font-family: 'Raleway_Italic';
-    src: url('/public/fonts/Raleway/Raleway-Italic-VariableFont_wght.ttf');
+    src: url('./public/fonts/Raleway/Raleway-Italic-VariableFont_wght.ttf');
 }
 
 @font-face {
     font-family: 'Arvo-Bold';
-    src: url('/public/fonts/Arvo/Arvo-Bold.ttf');
+    src: url('./public/fonts/Arvo/Arvo-Bold.ttf');
 }
 
 :root {
