@@ -1,0 +1,1743 @@
+<!doctype html>
+<html itemscope itemtype="http://schema.org/WebPage" lang="vi">
+<head>
+<!-- important for compatibility charset -->
+<meta charset="UTF-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<!-- important for responsiveness remove to make your site non responsive. -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="pingback" href="https://hiu.vn/xmlrpc.php">
+<script type="text/javascript">function theChampLoadEvent(e){var t=window.onload;if(typeof window.onload!="function"){window.onload=e}else{window.onload=function(){t();e()}}}</script>
+<script type="text/javascript">var theChampDefaultLang = 'vi', theChampCloseIconPath = 'https://hiu.vn/wp-content/plugins/super-socializer/images/close.png';</script>
+<script>var theChampSiteUrl = 'https://hiu.vn', theChampVerified = 0, theChampEmailPopup = 0, heateorSsMoreSharePopupSearchText = 'Search';</script>
+<script> var theChampFBKey = '', theChampFBLang = 'en_US', theChampFbLikeMycred = 0, theChampSsga = 0, theChampCommentNotification = 0, theChampHeateorFcmRecentComments = 0, theChampFbIosLogin = 0; </script>
+<script> var theChampSharingAjaxUrl = 'https://hiu.vn/wp-admin/admin-ajax.php', heateorSsFbMessengerAPI = 'https://www.facebook.com/dialog/send?app_id=595489497242932&display=popup&link=%encoded_post_url%&redirect_uri=%encoded_post_url%',heateorSsWhatsappShareAPI = 'web', heateorSsUrlCountFetched = [], heateorSsSharesText = 'Shares', heateorSsShareText = 'Share', theChampPluginIconPath = 'https://hiu.vn/wp-content/plugins/super-socializer/images/logo.png', theChampSaveSharesLocally = 0, theChampHorizontalSharingCountEnable = 0, theChampVerticalSharingCountEnable = 0, theChampSharingOffset = -10, theChampCounterOffset = -10, theChampMobileStickySharingEnabled = 0, heateorSsCopyLinkMessage = "Link copied.";
+var heateorSsVerticalSharingShortUrl = "https://hiu.vn/";		</script>
+<style type="text/css">
+.the_champ_button_instagram span.the_champ_svg,a.the_champ_instagram span.the_champ_svg{background:radial-gradient(circle at 30% 107%,#fdf497 0,#fdf497 5%,#fd5949 45%,#d6249f 60%,#285aeb 90%)}
+.the_champ_horizontal_sharing .the_champ_svg,.heateor_ss_standard_follow_icons_container .the_champ_svg{
+color: #fff;
+border-width: 0px;
+border-style: solid;
+border-color: transparent;
+}
+.the_champ_horizontal_sharing .theChampTCBackground{
+color:#666;
+}
+.the_champ_horizontal_sharing span.the_champ_svg:hover,.heateor_ss_standard_follow_icons_container span.the_champ_svg:hover{
+border-color: transparent;
+}
+.the_champ_vertical_sharing span.the_champ_svg,.heateor_ss_floating_follow_icons_container span.the_champ_svg{
+color: #fff;
+border-width: 0px;
+border-style: solid;
+border-color: transparent;
+}
+.the_champ_vertical_sharing .theChampTCBackground{
+color:#666;
+}
+.the_champ_vertical_sharing span.the_champ_svg:hover,.heateor_ss_floating_follow_icons_container span.the_champ_svg:hover{
+border-color: transparent;
+}
+@media screen and (max-width:783px){.the_champ_vertical_sharing{display:none!important}}</style>
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<link rel="alternate" href="https://hiu.vn/en/" hreflang="en" />
+<link rel="alternate" href="owl.video.play.png" hreflang="vi" />
+<!-- This site is optimized with the Yoast SEO plugin v18.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Trang chủ - Trường Đại học Quốc tế Hồng Bàng</title>
+<meta name="description" content="Trường Đại học Quốc tế Hồng Bàng - Sáng tạo - Hội nhập Quốc tế - Phát triển – Nhân văn" />
+<link rel="canonical" href="owl.video.play.png" />
+<meta property="og:locale" content="vi_VN" />
+<meta property="og:locale:alternate" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Trường Đại học Quốc tế Hồng Bàng Sáng tạo - Hội nhập Quốc tế - Phát triển – Nhân văn -" />
+<meta property="og:description" content="Trường Đại học Quốc tế Hồng Bàng - Sáng tạo - Hội nhập Quốc tế - Phát triển – Nhân văn" />
+<meta property="og:url" content="https://hiu.vn/" />
+<meta property="og:site_name" content="Trường Đại học Quốc tế Hồng Bàng" />
+<meta property="article:publisher" content="https://www.facebook.com/hiu.vn/" />
+<meta property="article:modified_time" content="2025-03-04T09:45:32+00:00" />
+<meta property="og:image" content="https://hiu.vn/wp-content/uploads/2020/02/Logo-HBU-Final.png" />
+<meta property="og:image:width" content="3697" />
+<meta property="og:image:height" content="932" />
+<meta property="og:image:type" content="image/png" />
+<meta name="twitter:card" content="summary_large_image" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://hiu.vn/#organization","name":"Trường Đại học Quốc tế Hồng Bàng","url":"https://hiu.vn/","sameAs":["https://www.facebook.com/hiu.vn/","https://www.youtube.com/channel/UC7JnqM5xyC69FGfE3cdVzFw"],"logo":{"@type":"ImageObject","@id":"https://hiu.vn/#logo","inLanguage":"vi","url":"https://hiu.vn/wp-content/uploads/2020/02/Logo-HBU-Final.png","contentUrl":"https://hiu.vn/wp-content/uploads/2020/02/Logo-HBU-Final.png","width":3697,"height":932,"caption":"Trường Đại học Quốc tế Hồng Bàng"},"image":{"@id":"https://hiu.vn/#logo"}},{"@type":"WebSite","@id":"https://hiu.vn/#website","url":"https://hiu.vn/","name":"Trường Đại học Quốc tế Hồng Bàng","description":"Sáng tạo - Hội nhập Quốc tế - Phát triển – Nhân văn","publisher":{"@id":"https://hiu.vn/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://hiu.vn/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"vi"},{"@type":"ImageObject","@id":"https://hiu.vn/#primaryimage","inLanguage":"vi","url":"https://hiu.vn/wp-content/uploads/2020/02/Logo-HBU-Final.png","contentUrl":"https://hiu.vn/wp-content/uploads/2020/02/Logo-HBU-Final.png","width":3697,"height":932},{"@type":"WebPage","@id":"https://hiu.vn/#webpage","url":"https://hiu.vn/","name":"Trang chủ - Trường Đại học Quốc tế Hồng Bàng","isPartOf":{"@id":"https://hiu.vn/#website"},"about":{"@id":"https://hiu.vn/#organization"},"primaryImageOfPage":{"@id":"https://hiu.vn/#primaryimage"},"datePublished":"2016-11-22T10:23:23+00:00","dateModified":"2025-03-04T09:45:32+00:00","description":"Trường Đại học Quốc tế Hồng Bàng - Sáng tạo - Hội nhập Quốc tế - Phát triển – Nhân văn","breadcrumb":{"@id":"https://hiu.vn/#breadcrumb"},"inLanguage":"vi","potentialAction":[{"@type":"ReadAction","target":["https://hiu.vn/"]}]},{"@type":"BreadcrumbList","@id":"https://hiu.vn/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Trang chủ"}]}]}</script>
+<meta name="google-site-verification" content="2str_4JFiafEaS_gfpsy6z5mOTO2uelKma3urukWQrA" />
+<!-- / Yoast SEO plugin. -->
+<link rel='dns-prefetch' href='https://www.youtube.com/' />
+<link rel='dns-prefetch' href='https://fonts.googleapis.com/' />
+<link rel='dns-prefetch' href='https://s.w.org/' />
+<link rel="alternate" type="application/rss+xml" title="Dòng thông tin Trường Đại học Quốc tế Hồng Bàng &raquo;" href="https://hiu.vn/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Dòng phản hồi Trường Đại học Quốc tế Hồng Bàng &raquo;" href="https://hiu.vn/comments/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/hiu.vn\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.6"}};
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+display: inline !important;
+border: none !important;
+box-shadow: none !important;
+height: 1em !important;
+width: 1em !important;
+margin: 0 .07em !important;
+vertical-align: -0.1em !important;
+background: none !important;
+padding: 0 !important;
+}
+</style>
+<!-- <link rel='stylesheet' id='dashicons-css'  href='https://hiu.vn/wp-includes/css/dashicons.min.css?ver=5.7.6' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='menu-icons-extra-css'  href='https://hiu.vn/wp-content/plugins/menu-icons/css/extra.min.css?ver=0.13.4' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='wp-block-library-css'  href='https://hiu.vn/wp-includes/css/dist/block-library/style.min.css?ver=5.7.6' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='wp-block-library-theme-css'  href='https://hiu.vn/wp-includes/css/dist/block-library/theme.min.css?ver=5.7.6' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='rs-plugin-settings-css'  href='https://hiu.vn/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.1.5' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="../../../../cache/hiu.vn/wpfc-minified/d6t6p43o/hq8or.css" media="all"/>
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<!-- <link rel='stylesheet' id='text-to-speech-mh-css'  href='https://hiu.vn/wp-content/plugins/text-to-speech-thamthien/public/css/text-to-speech-mh-public.css?ver=1.0.0' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='megamenu-css'  href='https://hiu.vn/wp-content/uploads/maxmegamenu/style_vi.css?ver=1f5f05' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="../../../../cache/hiu.vn/wpfc-minified/8kvfchh7/hq8or.css" media="all"/>
+<link rel='stylesheet' id='google-fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A400%2C700&#038;ver=1.0.0' type='text/css' media='all' />
+<!-- <link rel='stylesheet' id='foundation-css'  href='https://hiu.vn/wp-content/themes/education/assets/css/foundation.min.css?ver=1.0.0' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='animate-css'  href='https://hiu.vn/wp-content/themes/education/assets/css/animate.css?ver=1.0.0' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='font-awesome-css'  href='https://hiu.vn/wp-content/themes/education/assets/css/font-awesome.min.css?ver=1.0.0' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='owl-carousel-css'  href='https://hiu.vn/wp-content/themes/education/assets/css/owl.carousel.css?ver=1.0.0' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='wc-wordpress-css'  href='https://hiu.vn/wp-content/themes/education/assets/css/wordpress.css?ver=1.0.0' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='wc-styles-css'  href='https://hiu.vn/wp-content/themes/education/assets/css/theme-styles.css?ver=1.0.0' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='lightbox-css'  href='https://hiu.vn/wp-content/themes/education/assets/css/lightbox.min.css?ver=1.0.0' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='wc-main-stylesheet-css'  href='https://hiu.vn/wp-content/themes/education/style.css?ver=1.0.0' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='the_champ_frontend_css-css'  href='https://hiu.vn/wp-content/plugins/super-socializer/css/front.css?ver=7.13.46' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='srpw-style-css'  href='https://hiu.vn/wp-content/plugins/smart-recent-posts-widget/assets/css/srpw-frontend.css?ver=5.7.6' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='shiftnav-css'  href='https://hiu.vn/wp-content/plugins/shiftnav-responsive-mobile-menu/assets/css/shiftnav.min.css?ver=1.7.2' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='shiftnav-font-awesome-css'  href='https://hiu.vn/wp-content/plugins/shiftnav-responsive-mobile-menu/assets/css/fontawesome/css/font-awesome.min.css?ver=1.7.2' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='shiftnav-standard-dark-css'  href='https://hiu.vn/wp-content/plugins/shiftnav-responsive-mobile-menu/assets/css/skins/standard-dark.css?ver=1.7.2' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='kc-general-css'  href='https://hiu.vn/wp-content/plugins/kingcomposer/assets/frontend/css/kingcomposer.min.css?ver=2.9.6' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='kc-animate-css'  href='https://hiu.vn/wp-content/plugins/kingcomposer/assets/css/animate.css?ver=2.9.6' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='kc-icon-1-css'  href='https://hiu.vn/wp-content/plugins/kingcomposer/assets/css/icons.css?ver=2.9.6' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="../../../../cache/hiu.vn/wpfc-minified/1yu2cs6j/hq8or.css" media="all"/>
+<script src='../../../../cache/hiu.vn/wpfc-minified/ky42wwkn/hq8or.js' type="text/javascript"></script>
+<!-- <script type='text/javascript' src='https://hiu.vn/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script> -->
+<!-- <script type='text/javascript' src='https://hiu.vn/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script> -->
+<!-- <script type='text/javascript' src='https://hiu.vn/wp-content/plugins/revslider/public/assets/js/revolution.tools.min.js?ver=6.0' id='tp-tools-js'></script> -->
+<!-- <script type='text/javascript' src='https://hiu.vn/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.1.5' id='revmin-js'></script> -->
+<!-- <script type='text/javascript' src='https://hiu.vn/wp-content/plugins/text-to-speech-thamthien/public/js/text-to-speech-mh-public.js?ver=1.0.0' id='text-to-speech-mh-js'></script> -->
+<link rel="https://api.w.org/" href="https://hiu.vn/wp-json/" /><link rel="alternate" type="application/json" href="https://hiu.vn/wp-json/wp/v2/pages/623" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://hiu.vn/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://hiu.vn/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.7.6" />
+<link rel='shortlink' href='owl.video.play.png' />
+<link rel="alternate" type="application/json+oembed" href="https://hiu.vn/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhiu.vn%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://hiu.vn/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhiu.vn%2F&#038;format=xml" />
+<script type="text/javascript">var kc_script_data={ajax_url:"https://hiu.vn/wp-admin/admin-ajax.php"}</script>
+<!-- ShiftNav CSS
+================================================================ -->
+<style type="text/css" id="shiftnav-dynamic-css">
+@media only screen and (min-width:768px){ #shiftnav-toggle-main, .shiftnav-toggle-mobile{ display:none; } .shiftnav-wrap { padding-top:0 !important; } }
+@media only screen and (max-width:767px){ .ubermenu, body .ubermenu, .ubermenu.ubermenu-responsive-default, .ubermenu-responsive-toggle, #megaMenu{ display:none !important; } }
+/** ShiftNav Custom Menu Styles (Customizer) **/
+/* togglebar */
+#shiftnav-toggle-main { background:#dd3333; color:#333333; }
+/* Status: Loaded from Transient */
+</style>
+<!-- end ShiftNav CSS -->
+<!--Customizer CSS--> 
+<style type="text/css">
+h1,h2,h3,h4,h5,h6, h2 a, h3 a, h4 a, h5 a, h6 a, h1 span, h2 span, h3 span, h4 span, h5 span, .tabs li a, .accordion-title, .pricing-table .title { font-family: 'Roboto', sans-serif; }.top-bar { font-family:'Roboto', sans-serif; }body {font-family: 'Roboto', sans-serif; }a { color:#c00d00; }a:hover { color:#c00d00; }#loading { background-color:#ffffff; }.topBar { background-color:#2f2f2f; }.topBar, .topBar p, .topBar ul li { color:#ffffff; }.header .is-active a, .top-bar ul li a:hover { border-bottom-color:#174874 !important; }.navigation-style-two .search-wrap a:hover, .navigation-style-two .top-bar ul li a:hover, .header .is-active a, .top-bar ul li a:hover, .search-wrap a:hover { color:#174874 !important; }.navigation-style-two .top-bar .dropdown.menu&gt;li.opens-right&gt;.is-dropdown-submenu { border-top-color:#174874 !important; }.top-bar .submenu li a { background-color:#eeee22 !important; }.header .submenu li a, .main-container .top-bar .submenu li a { color:#3a3a3a !important; }.navigation-style-two .is-active .submenu li a:hover, .header .is-active .submenu li a:hover, .top-bar .submenu li a:hover { color:#3a3a3a !important; }.navigation-style-two, .navigation-style-two .top-bar ul { background-color:#1e73be; }.title-section::after{ background-image:url(../../../../uploads/2020/02/header-2.jpeg);}.footer::after{ background-image:url(../../../../uploads/2020/02/IMG_1066.jpg);}.footer { 
+background-color:rgba(23,72,115,0.9) !important;
+}.footerbottom { background-color:#174873; }.seminar-events::after{ background-image:url(https://172.16.10.8/wp-content/uploads/2020/02/eventsbgbk-1.jpg);}      </style> 
+<!--/Customizer CSS-->
+<meta name="generator" content="Powered by Slider Revolution 6.1.5 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5DJ4MFV');</script>
+<!-- End Google Tag Manager -->
+<meta name="google-site-verification" content="Y9oZiPfFekxn1cge_R5VMk1RwdNkcoaxBpWtHGylxgs" />
+<!-- Messenger Plugin chat Code -->
+<div id="fb-root"></div>
+<!-- Your Plugin chat code -->
+<div id="fb-customer-chat" class="fb-customerchat">
+</div>
+<script>
+var chatbox = document.getElementById('fb-customer-chat');
+chatbox.setAttribute("page_id", "204971579572594");
+chatbox.setAttribute("attribution", "biz_inbox");
+</script>
+<!-- ladicdn -->
+<script src="https://w.ladicdn.com/popupx/sdk.js" id="60951f304f31f60012f379c5" async></script>
+<!-- Your SDK code -->
+<script>
+window.fbAsyncInit = function() {
+FB.init({
+xfbml            : true,
+version          : 'v13.0'
+});
+};
+(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = 'https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js';
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script><link rel="icon" href="../../../../uploads/2020/02/cropped-Logo-HBU-Final-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="../../../../uploads/2020/02/cropped-Logo-HBU-Final-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://hiu.vn/wp-content/uploads/2020/02/cropped-Logo-HBU-Final-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://hiu.vn/wp-content/uploads/2020/02/cropped-Logo-HBU-Final-1-270x270.png" />
+<script type="text/javascript">function setREVStartSize(t){try{var h,e=document.getElementById(t.c).parentNode.offsetWidth;if(e=0===e||isNaN(e)?window.innerWidth:e,t.tabw=void 0===t.tabw?0:parseInt(t.tabw),t.thumbw=void 0===t.thumbw?0:parseInt(t.thumbw),t.tabh=void 0===t.tabh?0:parseInt(t.tabh),t.thumbh=void 0===t.thumbh?0:parseInt(t.thumbh),t.tabhide=void 0===t.tabhide?0:parseInt(t.tabhide),t.thumbhide=void 0===t.thumbhide?0:parseInt(t.thumbhide),t.mh=void 0===t.mh||""==t.mh||"auto"===t.mh?0:parseInt(t.mh,0),"fullscreen"===t.layout||"fullscreen"===t.l)h=Math.max(t.mh,window.innerHeight);else{for(var i in t.gw=Array.isArray(t.gw)?t.gw:[t.gw],t.rl)void 0!==t.gw[i]&&0!==t.gw[i]||(t.gw[i]=t.gw[i-1]);for(var i in t.gh=void 0===t.el||""===t.el||Array.isArray(t.el)&&0==t.el.length?t.gh:t.el,t.gh=Array.isArray(t.gh)?t.gh:[t.gh],t.rl)void 0!==t.gh[i]&&0!==t.gh[i]||(t.gh[i]=t.gh[i-1]);var r,a=new Array(t.rl.length),n=0;for(var i in t.tabw=t.tabhide>=e?0:t.tabw,t.thumbw=t.thumbhide>=e?0:t.thumbw,t.tabh=t.tabhide>=e?0:t.tabh,t.thumbh=t.thumbhide>=e?0:t.thumbh,t.rl)a[i]=t.rl[i]<window.innerWidth?0:t.rl[i];for(var i in r=a[0],a)r>a[i]&&0<a[i]&&(r=a[i],n=i);var d=e>t.gw[n]+t.tabw+t.thumbw?1:(e-(t.tabw+t.thumbw))/t.gw[n];h=t.gh[n]*d+(t.tabh+t.thumbh)}void 0===window.rs_init_css&&(window.rs_init_css=document.head.appendChild(document.createElement("style"))),document.getElementById(t.c).height=h,window.rs_init_css.innerHTML+="#"+t.c+"_wrapper { height: "+h+"px }"}catch(t){console.log("Failure at Presize of Slider:"+t)}};</script>
+<style type="text/css" id="wp-custom-css">
+.fb_dialog, .fb_reset {position: fixed !important;z-index: 10000 !important;}
+.fb_dialog {
+right:30pt !important;
+}
+.header {
+padding-top: 16px;
+padding-bottom: 10px;
+}
+h2, h2 a, h2 span, h3, h3 span, h3 a, h4, a span {
+color: #174874 !important;
+}
+.row {
+max-width: 80rem;
+}
+.module {
+margin-bottom: 30px;
+}
+.top-bar ul ul li a {
+text-transform: unset;
+}
+.top-bar ul li a {
+text-transform: unset;
+font-size: 1.1rem;
+}
+.top-bar ul li a:hover{
+border-bottom: none !important;
+}
+#home-page__3-boxes h3{
+text-transform:unset;
+text-align: left;
+}
+#home-page__3-boxes .button{
+text-transform:unset;
+}
+#home-page__3-boxes .information-boxes h3 {
+text-align: left;
+}
+.information-boxes h3, .information-boxes ul,
+.information-boxes p{
+color: #333;
+}
+.home-page__box {
+width: calc(100% - 12px);
+padding: 8px;
+margin-top: -40px;
+position: relative;
+margin-left: 6px;
+}
+.section-title h2 {
+text-transform:unset;
+margin-bottom: 8px;
+}
+#home-page-partner .thumbnail {
+height: 100%;
+width: 100% !important;
+}
+.bran-logo .thumbnail {
+height: 100%;
+width: 100% !important;
+}
+.footer h2 {
+color: #f7f7f7 !important;
+}
+.footer-widget .menu li a span {
+color: white !important;
+}
+.footerbottom .right-side{
+content: url('../../../../uploads/2020/02/Logo-HBU-trang.png');
+display: block;
+width: 330px;
+margin: 40px;
+}
+.footer-bottom-copyright {
+background: #174873;
+color: #FFF;
+max-width: 100%;
+padding-bottom: 18px
+}
+.footer-bottom-copyright hr {
+max-width: 78rem;
+margin-top: 0px;
+margin-bottom: 8px;
+}
+.footer-bottom-copyright .left-side {
+margin-left: 16%;
+}
+.footer-bottom-copyright .right-side a {
+color: white;
+font-size: 22px;
+margin-right: 12px;
+}
+.top-bar .dropdown.menu>li.opens-right>.is-dropdown-submenu li a:before {
+content: "";
+}
+.divider_line2 i {
+width: 40px;
+height: 40px;
+background-color: #333;
+line-height: 40px;
+}
+.sinh-vien-quoc-te__desc {
+padding-top: 10% !important;
+padding-left: 24px !important;
+width: 85% !important;
+}
+.sinh-vien-quoc-te__icon {
+text-align: right;
+font-size: 32px;
+color: black;
+width: 15% !important;
+}
+.staff-links a{
+pointer-events: inherit;
+}
+.staff-detail {
+text-align: center;
+}
+.footer-widget .menu li {
+width: 100%;
+}
+.title-section {
+background-color: transparent;
+color: black;
+}
+.title-section .row {
+width: 55%;
+background: rgba(99, 99, 99, 0.60);
+margin-left: 5rem;
+padding-top: 8px;
+padding-bottom: 8px;
+}
+.title-section h1 {
+text-transform:none;
+}
+.breadcrumbs li {
+text-transform: none;
+font-size: 0.8rem;
+}
+.breadcrumbs li a {
+font-size: 0.8rem;
+}
+#responsive-menu > ul > li:nth-child(1) a:hover {
+border-bottom: none !important;
+}
+#responsive-menu > ul > li:nth-child(2) > ul {
+min-width: 240px;
+}
+#responsive-menu > ul > li:nth-child(3) > ul {
+min-width: 220px;
+}
+#responsive-menu > ul > li:nth-child(4) > ul {
+min-width: 295px;
+}
+#responsive-menu > ul > li:nth-child(5) > ul {
+min-width: 220px;
+}
+#responsive-menu > ul > li:nth-child(7) > ul {
+min-width: 420px;
+}
+#responsive-menu > ul > li:nth-child(2) > ul > li.is-dropdown-submenu-parent.is-submenu-item.is-dropdown-submenu-item.opens-right > ul {
+min-width: 115px;
+}
+.event {
+height: 292px;
+}
+.event-data {
+margin-bottom: 40px !important;
+}
+.event h4 a {
+text-transform: none;
+}
+.seminar-events {
+display: none;
+}
+.call-to-action, .event .button  {
+display: none;
+}
+.has-post-thumbnail .featured-image{
+width: 400px;
+display: none;
+}
+.single-post-page .row .posts-wrap .posts-container .has-post-thumbnail .featured-image, .post-meta  {
+display: none;
+}
+.post-title-alt a {
+font-size: 16px !important;
+text-transform: none;
+}
+#top {
+right: 5px;
+bottom: 5px;
+}
+#so-do-trang-web .wshs-post-simple-list h2 {
+display: none;
+}
+#so-do-trang-web .wshs-post-simple-list li {
+padding-left: 4px;
+}
+#khoi-nganh-dao-tao .bran-logo .thumbnail {
+height: 100%;
+width: 100% !important;
+}
+.khoi-nganh-dao-tao__ten-khoi {
+margin-top: -50px; 
+position: relative;
+color: white;
+text-align: center;
+font-weight: 700;
+background: rgba(23, 72, 116, 0.7);
+height: 50px;
+padding-top: 10px
+}
+.avc_visit_counter_front_simple {
+display: flex;
+box-shadow: 0px 0px 2px 1px #CCC;
+font-size: 16px;
+font-weight: 700;
+justify-content: center;
+}
+.moduled-page .avc_visit_counter_front_simple {
+margin-bottom: 24px !important;
+}
+#bo-mon-cntt .ui-tabs-active .tab-title{
+border-bottom: 2px solid !important; 
+width: 55%;
+margin-left: 25%;
+color: #174874;
+}
+.size-wc-teacher-thumbnail {
+width: 100%;
+}
+:lang(en) .avc_visit_counter_front_simple {
+display:none;
+}
+:lang(en) .bo-mon-cntt__tab-title {
+display: none;
+}
+:lang(en) #osc-button { display: none !important; 
+}
+:lang(en) #osc_frame { display: none !important; 
+}
+:lang(en-Us) .footer-vi {
+display:none;
+}
+:lang(vi) .footer-en {
+display:none;
+}
+#osc-button {
+bottom: 45px !important;
+}
+.divider_line2 i {
+background-color: #174874;
+}
+.kc_accordion_header a {
+margin: 0px !important;
+}
+/*
+#menu-trung-tam {
+min-width: 425px;
+}
+#menu-khoa {
+min-width: 310px;
+}
+#menu-vien{
+min-width: 400px;
+}
+*/
+.header .row .large-8 {
+width: 83.33333%;
+}
+.header .row .large-4 {
+width: 16.66667%;
+}
+.srpw-thumbnail {
+width: 125px;
+}
+.srpw-meta {
+display: none;
+}
+.srpw-title {
+color: #174874;
+}
+.kc-blog-posts-3 .kc-list-item-3 .content {
+padding: 16px;
+}
+.kc-blog-posts-3.kc-blog-grid .post-grid.grid-3 {
+padding-right: 4px;
+}
+.job_types {
+list-style-type: none !important;
+margin-left: 0px !important;
+margin-bottom: -16px !important;
+margin-top: 0px !important;
+}
+.job_listings {
+padding-left: 0px !important;
+}
+.search_jobs .search_submit input {
+width: 125px;
+}
+.job_filters .search_jobs div.search_submit {
+text-align: center;
+}
+.job_filters .showing_jobs a {
+display: none;
+}
+.job-listing-meta {
+list-style-type: none !important;
+}
+.sharing-posts {
+border-bottom: none;
+}
+.application_button {
+text-transform: none;
+}
+.single_job_listing .application {
+overflow: inherit;
+}
+.single-job_listing .main-container .title-section .row .columns .breadcrumbs .item-cat-vi {
+display: none;
+}
+@media only screen and (max-width: 768px) {
+#home-page__huong-nghiep .kc-call-to-action {
+width: 100%;
+}
+.title-section .row {
+width: 90%;
+margin-left: 1rem;
+}
+.footerTop {
+padding-left: 10px;
+}
+#nav_menu-12, #nav_menu-13, #nav_menu-14, #nav_menu-16 {
+display: none;
+}
+}
+@media only screen and (max-width: 414px) {
+#bo-mon-cntt .ui-tabs-nav {
+display: flex;
+flex-direction: column;
+}
+#bo-mon-cntt .ui-tabs-active .tab-title{
+border-bottom: 2px solid !important; 
+width: 30%;
+margin-left: 10%;
+}
+.footer-bottom-copyright .left-side {
+text-align:center;
+margin-left:5rem;
+}
+.footer-bottom-copyright .right-side {
+text-align:center;
+}
+#responsive-menu > ul > li:nth-child(7) > ul {
+min-width: 250px;
+}
+.header .row .large-8 {
+width: 100%;
+}
+.header .row .large-4 {
+width: 100%;
+}
+.top-bar ul li a span{
+color:white !important;
+}
+}
+.creative_title {
+color: #174874;
+}
+.page-id-12551 .header, .page-id-12551 .footer, .page-id-12551 .footer-bottom-copyright {
+display: none;
+}
+.menu-icon.dark {
+margin-left: -25px;
+display: none;
+}
+.shiftnav.shiftnav-skin-standard-dark ul.shiftnav-menu {
+background: #174874;
+color: #eee;
+}
+.shiftnav.shiftnav-skin-standard-dark ul.shiftnav-menu > li.menu-item > .shiftnav-target {
+text-transform: uppercase;
+}
+.shiftnav.shiftnav-nojs.shiftnav-skin-standard-dark ul.shiftnav-menu li.menu-item > .shiftnav-target:hover, .shiftnav.shiftnav-skin-standard-dark ul.shiftnav-menu li.menu-item.shiftnav-active > .shiftnav-target, .shiftnav.shiftnav-skin-standard-dark ul.shiftnav-menu li.menu-item.shiftnav-in-transition > .shiftnav-target, .shiftnav.shiftnav-skin-standard-dark ul.shiftnav-menu li.menu-item.current-menu-item > .shiftnav-target, .shiftnav.shiftnav-skin-standard-dark ul.shiftnav-menu > li.shiftnav-sub-accordion.current-menu-ancestor > .shiftnav-target, .shiftnav.shiftnav-skin-standard-dark ul.shiftnav-menu > li.shiftnav-sub-shift.current-menu-ancestor > .shiftnav-target, .shiftnav.shiftnav-skin-standard-dark ul.shiftnav-menu.shiftnav-active-highlight li.menu-item > .shiftnav-target:active, .shiftnav.shiftnav-skin-standard-dark ul.shiftnav-menu.shiftnav-active-on-hover li.menu-item > .shiftnav-target:hover {
+color: #eee;
+background: #174874;
+border-top-color: rgba(113, 107, 107, 0.5);
+border-bottom-color: rgba(113, 107, 107, 0.5);
+}
+.shiftnav ul.shiftnav-menu li.menu-item > .shiftnav-target, .shiftnav ul.shiftnav-menu li.shiftnav-retract > .shiftnav-target {
+padding: 6px 25px;
+}
+.shiftnav.shiftnav-nojs.shiftnav-skin-standard-dark ul.shiftnav-menu li.menu-item > .shiftnav-target:hover, .shiftnav.shiftnav-skin-standard-dark ul.shiftnav-menu li.menu-item.shiftnav-active > .shiftnav-target, .shiftnav.shiftnav-skin-standard-dark ul.shiftnav-menu li.menu-item.shiftnav-in-transition > .shiftnav-target, .shiftnav.shiftnav-skin-standard-dark ul.shiftnav-menu li.menu-item.current-menu-item > .shiftnav-target, .shiftnav.shiftnav-skin-standard-dark ul.shiftnav-menu > li.shiftnav-sub-accordion.current-menu-ancestor > .shiftnav-target, .shiftnav.shiftnav-skin-standard-dark ul.shiftnav-menu > li.shiftnav-sub-shift.current-menu-ancestor > .shiftnav-target, .shiftnav.shiftnav-skin-standard-dark ul.shiftnav-menu.shiftnav-active-highlight li.menu-item > .shiftnav-target:active, .shiftnav.shiftnav-skin-standard-dark ul.shiftnav-menu.shiftnav-active-on-hover li.menu-item > .shiftnav-target:hover {
+color: #eee;
+background: #174874;
+}
+.shiftnav.shiftnav-skin-standard-dark ul.shiftnav-menu {
+background: #174874;
+color: #eee;
+}
+.shiftnav.shiftnav-skin-standard-dark ul.shiftnav-menu li.menu-item > .shiftnav-target {
+display: block;
+color: #eee;
+border-bottom: 0px solid #111;
+border-bottom-color: rgb(17, 17, 17);
+border-top: 0px solid #313131;
+}
+.shiftnav.shiftnav-skin-standard-dark ul.shiftnav-menu ul.sub-menu {
+background: #174874;
+}
+#cpseoemymkwywiigivuah .chat-button.chat-button--right {
+margin-bottom: 20px !important;
+}
+/*OXC*/
+/* Container của slider */
+.thangconex {
+display: flex;
+justify-content: center; /* Để các phần tử con nằm ở giữa */
+align-items: center; /* Căn giữa các phần tử dọc */
+overflow: hidden; /* Ẩn các phần tử bị tràn ngoài container */
+width: 100%; /* Đảm bảo container chiếm toàn bộ chiều rộng */
+}
+/* Cấu hình các bài viết trong slider */
+.thangconex .blog-post {
+flex: 1 1 calc(25% - 20px); /* Đảm bảo mỗi bài viết chiếm 25% chiều rộng - trừ khoảng cách giữa các bài viết */
+margin: 0 10px; /* Khoảng cách giữa các bài viết */
+box-sizing: border-box;
+position: relative;
+background-color: #f4f4f4;
+padding: 15px;
+border-radius: 8px;
+transition: transform 0.3s ease;
+}
+/* Tạo hiệu ứng hover cho mỗi bài viết */
+.thangconex .blog-post:hover {
+transform: translateY(-10px);
+}
+/* Style cho hình ảnh bài viết */
+.thangconex .blog-post img {
+width: 100%;
+height: auto;
+border-radius: 8px;
+}
+/* Style cho tiêu đề bài viết */
+.thangconex .blog-post h3 {
+font-size: 18px;
+margin-top: 10px;
+color: #333;
+font-weight: bold;
+}
+/* Style cho danh mục bài viết */
+.thangconex .blog-post .post-category {
+font-size: 14px;
+color: #888;
+margin: 5px 0;
+}
+/* Style cho đoạn mô tả ngắn */
+.thangconex .blog-post .post-excerpt {
+font-size: 14px;
+color: #555;
+margin-top: 10px;
+}
+/* Đảm bảo 4 cột cho slider trên màn hình lớn */
+@media (min-width: 1200px) {
+.thangconex .blog-post {
+flex: 1 1 calc(25% - 20px); /* 4 cột trên màn hình lớn */
+}
+}
+/* Responsiveness cho màn hình vừa (3 cột) */
+@media (max-width: 1200px) {
+.thangconex .blog-post {
+flex: 1 1 calc(33.33% - 20px); /* 3 cột trên màn hình vừa */
+}
+}
+/* Responsiveness cho màn hình nhỏ (2 cột) */
+@media (max-width: 768px) {
+.thangconex .blog-post {
+flex: 1 1 calc(50% - 20px); /* 2 cột trên màn hình nhỏ */
+}
+}
+/* Responsiveness cho màn hình rất nhỏ (1 cột) */
+@media (max-width: 480px) {
+.thangconex .blog-post {
+flex: 1 1 100%; /* 1 cột trên màn hình rất nhỏ */
+}
+}
+.kc-owl-post-carousel .owl-item .list-item {
+box-shadow:none;
+}
+.tab-conex li {
+cursor: pointer;            /* Thêm con trỏ chuột khi hover vào tab */
+color: white;               /* Màu chữ của các tab */
+text-align: center;         /* Căn giữa văn bản trong mỗi tab */
+font-weight: bold;          /* Chữ đậm */
+border: none;               /* Bỏ border mặc định */
+}
+/*blog - conex-2603*/
+.blog-page .blog-post {
+display: flex;
+flex-wrap: wrap;
+margin-bottom: 20px;
+}
+.blog-page .blog-post .featured-image {
+display: block;
+width: 50%;
+padding: 10px;
+box-sizing: border-box;
+}
+.blog-page .blog-post .featured-image img {
+width: 100%;
+height: auto;
+}
+.blog-page .blog-post h3 {
+width: 50%;
+padding: 10px;
+box-sizing: border-box;
+margin-top: 0;
+}
+.blog-page .blog-post .post-excerpt {
+width: 100%;
+padding: 10px;
+box-sizing: border-box;
+margin-top: 10px;
+}
+</style>
+<script type="text/javascript"></script><style type="text/css" id="kc-css-general">.kc-off-notice{display: inline-block !important;}.kc-container{max-width:1170px;}</style><style type="text/css" id="kc-css-render">@media only screen and (min-width:1000px) and (max-width:5000px){body.kc-css-system .kc-css-867760{width:55.22%;}body.kc-css-system .kc-css-488946{width:44.74%;}body.kc-css-system .kc-css-275920{width:100%;}body.kc-css-system .kc-css-702235{width:100%;}body.kc-css-system .kc-css-410547{width:100%;}body.kc-css-system .kc-css-960631{width:25%;}body.kc-css-system .kc-css-454515{width:25%;}body.kc-css-system .kc-css-967751{width:25%;}body.kc-css-system .kc-css-450794{width:25%;}}body.kc-css-system .kc-css-152863 .kc-container{max-width:1100px;}body.kc-css-system .kc-css-152863{color:#ffffff;margin-bottom:0px;}body.kc-css-system .kc-css-343191{font-weight:400;margin-bottom:24px;}body.kc-css-system .kc-css-713379{text-transform:none;margin-bottom:0px;padding-top:24px;}body.kc-css-system .kc-css-12559{text-transform:none;margin-top:16px;}body.kc-css-system .kc-css-231456.kc_title,body.kc-css-system .kc-css-231456 .kc_title,body.kc-css-system .kc-css-231456 .kc_title a.kc_title_link{text-align:center;}body.kc-css-system .kc-css-503821 .divider_inner{border-style:solid;width:66%;}body.kc-css-system .kc-css-503821{text-align:center;margin-top:0px;}body.kc-css-system .kc-css-133432{text-transform:none;margin-bottom:0px;padding-top:24px;}body.kc-css-system .kc-css-287835.kc_title,body.kc-css-system .kc-css-287835 .kc_title,body.kc-css-system .kc-css-287835 .kc_title a.kc_title_link{text-align:center;}body.kc-css-system .kc-css-637121 .divider_inner{border-style:solid;width:66%;}body.kc-css-system .kc-css-637121{text-align:center;margin-top:0px;}body.kc-css-system .kc-css-891679{text-transform:none;margin-top:16px;}body.kc-css-system .kc-css-752177.kc_title,body.kc-css-system .kc-css-752177 .kc_title,body.kc-css-system .kc-css-752177 .kc_title a.kc_title_link{text-align:center;}body.kc-css-system .kc-css-118333 .divider_inner{border-style:solid;width:66%;}body.kc-css-system .kc-css-118333{text-align:center;margin-top:0px;}body.kc-css-system .kc-css-998232 a{font-weight:500;text-transform:none;border:2px dotted #174874;border-radius:2px 2px 2px 2px;padding:4px 16px 4px 16px;margin-top:12px;}body.kc-css-system .kc-css-998232{text-align:center;}body.kc-css-system .kc-css-998232 a:hover{border:2px dotted #174874;border-radius:6px 6px 6px 6px;}body.kc-css-system .kc-css-998232 i{color:#174874;}body.kc-css-system .kc-css-689719{text-align:center;}body.kc-css-system .kc-css-689719 img{width:100%;}body.kc-css-system .kc-css-305590{margin-bottom:0px;}body.kc-css-system .kc-css-506497.kc_title,body.kc-css-system .kc-css-506497 .kc_title,body.kc-css-system .kc-css-506497 .kc_title a.kc_title_link{text-align:center;}body.kc-css-system .kc-css-331175 .divider_inner{border-style:solid;width:66%;}body.kc-css-system .kc-css-331175{text-align:center;margin-top:0px;}@media only screen and (max-width:1024px){body.kc-css-system .kc-css-503821 .divider_inner{border-style:solid;width:66%;}body.kc-css-system .kc-css-637121 .divider_inner{border-style:solid;width:66%;}body.kc-css-system .kc-css-118333 .divider_inner{border-style:solid;width:66%;}body.kc-css-system .kc-css-331175 .divider_inner{border-style:solid;width:66%;}}@media only screen and (max-width:999px){body.kc-css-system .kc-css-503821 .divider_inner{border-style:solid;width:66%;}body.kc-css-system .kc-css-637121 .divider_inner{border-style:solid;width:66%;}body.kc-css-system .kc-css-118333 .divider_inner{border-style:solid;width:66%;}body.kc-css-system .kc-css-331175 .divider_inner{border-style:solid;width:66%;}}@media only screen and (max-width:767px){body.kc-css-system .kc-css-503821 .divider_inner{border-style:solid;width:66%;}body.kc-css-system .kc-css-637121 .divider_inner{border-style:solid;width:66%;}body.kc-css-system .kc-css-118333 .divider_inner{border-style:solid;width:66%;}body.kc-css-system .kc-css-331175 .divider_inner{border-style:solid;width:66%;}}@media only screen and (max-width:479px){body.kc-css-system .kc-css-503821 .divider_inner{border-style:solid;width:99%;}body.kc-css-system .kc-css-637121 .divider_inner{border-style:solid;width:99%;}body.kc-css-system .kc-css-118333 .divider_inner{border-style:solid;width:99%;}body.kc-css-system .kc-css-331175 .divider_inner{border-style:solid;width:99%;}}</style><style type="text/css">/** Mega Menu CSS: fs **/</style>
+</head>
+<body class="home page-template page-template-template-modules page-template-template-modules-php page page-id-623 wp-custom-logo kingcomposer kc-css-system mega-menu-top-navigation mega-menu-main-navigation ">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5DJ4MFV"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- Main Container -->
+<div class="top-container">
+<div id="mega-menu-wrap-top_navigation" class="mega-menu-wrap"><div class="mega-menu-toggle"><div class="mega-toggle-blocks-left"></div><div class="mega-toggle-blocks-center"></div><div class="mega-toggle-blocks-right"><div class='mega-toggle-block mega-menu-toggle-animated-block mega-toggle-block-0' id='mega-toggle-block-0'><button aria-label="Toggle Menu" class="mega-toggle-animated mega-toggle-animated-slider" type="button" aria-expanded="false">
+<span class="mega-toggle-animated-box">
+<span class="mega-toggle-animated-inner"></span>
+</span>
+</button></div></div></div><ul id="mega-menu-top_navigation" class="mega-menu max-mega-menu mega-menu-horizontal mega-no-js" data-event="hover_intent" data-effect="fade_up" data-effect-speed="200" data-effect-mobile="disabled" data-effect-speed-mobile="0" data-mobile-force-width="false" data-second-click="disabled" data-document-click="collapse" data-vertical-behaviour="standard" data-breakpoint="768" data-unbind="true" data-mobile-state="collapse_all" data-hover-intent-timeout="300" data-hover-intent-interval="100"><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-menu-item-84406 menu-item' id='mega-menu-item-84406'><a class="mega-menu-link" href="https://lecturer.hiu.vn/" tabindex="0">Giảng viên</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-menu-item-84407 menu-item' id='mega-menu-item-84407'><a class="mega-menu-link" href="https://ioffice.nhg.vn/" tabindex="0">Cán bộ - Nhân viên</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-menu-item-84405 menu-item' id='mega-menu-item-84405'><a class="mega-menu-link" href="https://student.hiu.vn/" tabindex="0">Sinh viên</a></li><li class='mega-lang-item mega-lang-item-95 mega-lang-item-en mega-lang-item-first mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-menu-item-84408-en lang-item lang-item-95 lang-item-en lang-item-first menu-item' id='mega-menu-item-84408-en'><a class="mega-menu-link" href="https://hiu.vn/en/" tabindex="0"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAmVBMVEViZsViZMJiYrf9gnL8eWrlYkjgYkjZYkj8/PujwPybvPz4+PetraBEgfo+fvo3efkydfkqcvj8Y2T8UlL8Q0P8MzP9k4Hz8/Lu7u4DdPj9/VrKysI9fPoDc/EAZ7z7IiLHYkjp6ekCcOTk5OIASbfY/v21takAJrT5Dg6sYkjc3Nn94t2RkYD+y8KeYkjs/v7l5fz0dF22YkjWvcOLAAAAgElEQVR4AR2KNULFQBgGZ5J13KGGKvc/Cw1uPe62eb9+Jr1EUBFHSgxxjP2Eca6AfUSfVlUfBvm1Ui1bqafctqMndNkXpb01h5TLx4b6TIXgwOCHfjv+/Pz+5vPRw7txGWT2h6yO0/GaYltIp5PT1dEpLNPL/SdWjYjAAZtvRPgHJX4Xio+DSrkAAAAASUVORK5CYII=" alt="English" width="16" height="11" style="width: 16px; height: 11px;" /></a></li></ul></div></div>
+<div class="main-container">
+<!-- Header Starts -->
+<div class="sticky-container" data-sticky-container>
+<div class="header sticky" style="width:100%;" data-sticky data-options="marginTop:0;">
+<div class="row">
+<div class="large-4 medium-6 small-12 columns">
+<div class="logo">
+<a href="owl.video.play.png" class="custom-logo-link" rel="home" aria-current="page"><img width="3697" height="932" src="../../../../uploads/2022/02/cropped-cropped-Logo-HBU-Final.png" class="custom-logo" alt="Trường Đại học Quốc tế Hồng Bàng" srcset="../../../../uploads/2022/02/cropped-cropped-Logo-HBU-Final.png 3697w, ../../../../uploads/2022/02/cropped-cropped-Logo-HBU-Final-300x76.png 300w, ../../../../uploads/2022/02/cropped-cropped-Logo-HBU-Final-1024x258.png 1024w, ../../../../uploads/2022/02/cropped-cropped-Logo-HBU-Final-768x194.png 768w, ../../../../uploads/2022/02/cropped-cropped-Logo-HBU-Final-1536x387.png 1536w, ../../../../uploads/2022/02/cropped-cropped-Logo-HBU-Final-2048x516.png 2048w" sizes="(max-width: 3697px) 100vw, 3697px" /></a>    
+</div><!-- logo /-->
+</div><!-- left Ends /-->
+<div class="large-8 medium-6 small-12 columns nav-wrap">
+<!-- navigation Code STarts here.. -->
+<div class="top-bar yespadd">
+<div class="top-bar-title">
+<span data-responsive-toggle="responsive-menu" data-hide-for="large">
+<a data-toggle><span class="menu-icon dark float-left"></span></a>
+</span>
+</div>
+<div id="mega-menu-wrap-main_navigation" class="mega-menu-wrap"><div class="mega-menu-toggle"><div class="mega-toggle-blocks-left"><div class='mega-toggle-block mega-menu-toggle-block mega-toggle-block-1' id='mega-toggle-block-1' tabindex='0'><span class='mega-toggle-label' role='button' aria-expanded='false'><span class='mega-toggle-label-closed'></span><span class='mega-toggle-label-open'></span></span></div></div><div class="mega-toggle-blocks-center"></div><div class="mega-toggle-blocks-right"></div></div><ul id="mega-menu-main_navigation" class="mega-menu max-mega-menu mega-menu-horizontal mega-no-js" data-event="hover_intent" data-effect="fade_up" data-effect-speed="200" data-effect-mobile="disabled" data-effect-speed-mobile="0" data-mobile-force-width="body" data-second-click="go" data-document-click="collapse" data-vertical-behaviour="accordion" data-breakpoint="768" data-unbind="true" data-mobile-state="collapse_all" data-hover-intent-timeout="300" data-hover-intent-interval="100"><li class='mega-home-icon mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-current-menu-item mega-current_page_item mega-menu-item-home mega-align-bottom-left mega-menu-flyout mega-menu-item-10953 home-icon menu-item' id='mega-menu-item-10953'><a class="mega-menu-link" href="owl.video.play.png" aria-current="page" tabindex="0"><i class="_mi dashicons dashicons-admin-home" aria-hidden="true" style="font-size:2.3em;"></i><span class="visuallyhidden">Trang chủ</span></a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-left mega-menu-grid mega-menu-item-74254 menu-item' id='mega-menu-item-74254'><a class="mega-menu-link" href="owl.video.play.png#" aria-haspopup="true" aria-expanded="false" tabindex="0">Giới thiệu<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-row menu-item' id='mega-menu-74254-0'>
+<ul class="mega-sub-menu">
+<li class='mega-menu-column mega-menu-columns-4-of-12 menu-item' id='mega-menu-74254-0-0'>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-menu-item-1807 menu-item' id='mega-menu-item-1807'><a class="mega-menu-link" href="https://hiu.vn/gioi-thieu/">Giới thiệu<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-1027 menu-item' id='mega-menu-item-1027'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/gioi-thieu/ve-chung-toi/">Chúng tôi là ai?</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-74278 menu-item' id='mega-menu-item-74278'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/gioi-thieu/tam-nhin-su-mang/">Tầm nhìn, sứ mạng</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-50697 menu-item' id='mega-menu-item-50697'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/gioi-thieu/gia-tri-cot-loi/">Giá trị cốt lõi</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-2098 menu-item' id='mega-menu-item-2098'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/gioi-thieu/tai-sao-chon-hiu/">Tại sao chọn HIU?</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-50702 menu-item' id='mega-menu-item-50702'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/gioi-thieu/triet-ly-giao-duc/">Triết lý giáo dục</a></li>			</ul>
+</li>		</ul>
+</li><li class='mega-menu-column mega-menu-columns-4-of-12 menu-item' id='mega-menu-74254-0-1'>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-menu-item-2120 menu-item' id='mega-menu-item-2120'><a class="mega-menu-link" href="https://hiu.vn/gioi-thieu/cac-don-vi/">Cơ cấu tổ chức<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-50937 menu-item' id='mega-menu-item-50937'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/gioi-thieu/cac-don-vi/hoi-dong-truong/">Hội đồng trường</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-50936 menu-item' id='mega-menu-item-50936'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/gioi-thieu/cac-don-vi/hdkhdt/">Hội đồng khoa học đào tạo</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-50925 menu-item' id='mega-menu-item-50925'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/ban-giam-hieu/">Ban Giám Hiệu</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-2635 menu-item' id='mega-menu-item-2635'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/khoa/">Khoa</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-74783 menu-item' id='mega-menu-item-74783'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/gioi-thieu/cac-don-vi/">Phòng/Trung Tâm/Viện</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-50710 menu-item' id='mega-menu-item-50710'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/dang-doan-the/">Đảng – Đoàn thể</a></li>			</ul>
+</li>		</ul>
+</li><li class='mega-menu-column mega-menu-columns-4-of-12 menu-item' id='mega-menu-74254-0-2'>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-52129 menu-item' id='mega-menu-item-52129'><a class="mega-menu-link" href="owl.video.play.png#">Công khai<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-80965 menu-item' id='mega-menu-item-80965'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/gioi-thieu/de-an-tuyen-sinh/">Tuyển sinh</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-34683 menu-item' id='mega-menu-item-34683'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/gioi-thieu/ba-cong-khai/">Ba công khai</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-52149 menu-item' id='mega-menu-item-52149'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/gioi-thieu/mo-nganh/">Đề án mở ngành</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-66869 menu-item' id='mega-menu-item-66869'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/gioi-thieu/bao-cao-bo/">Bộ Y Tế</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-80649 menu-item' id='mega-menu-item-80649'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/gioi-thieu/kdcl-co-so-giao-duc/">Kiểm định chất lượng</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-80988 menu-item' id='mega-menu-item-80988'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/gioi-thieu/bao-cao-viec-lam-sinh-vien/">Báo cáo việc làm sinh viên</a></li>			</ul>
+</li>		</ul>
+</li>	</ul>
+</li></ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-left mega-menu-grid mega-menu-item-72538 menu-item' id='mega-menu-item-72538'><a class="mega-menu-link" aria-haspopup="true" aria-expanded="false" tabindex="0">Tuyển sinh<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-row menu-item' id='mega-menu-72538-0'>
+<ul class="mega-sub-menu">
+<li class='mega-menu-column mega-menu-columns-2-of-3 menu-item' id='mega-menu-72538-0-0'>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-2-columns mega-menu-item-74271 menu-item' id='mega-menu-item-74271'><a class="mega-menu-link" href="owl.video.play.png#">Tuyển sinh<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-has-icon mega-icon-left mega-menu-item-68400 menu-item' id='mega-menu-item-68400'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="owl.video.play.png#" aria-haspopup="true" aria-expanded="false">Đại học<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-icon mega-icon-left mega-menu-item-72489 menu-item' id='mega-menu-item-72489'><a class="dashicons-arrow-right mega-menu-link" href="https://hiu.vn/tuyen-sinh/de-an-tuyen-sinh/">Đề án tuyển sinh 2024</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-icon mega-icon-left mega-menu-item-56002 menu-item' id='mega-menu-item-56002'><a class="dashicons-arrow-right mega-menu-link" href="https://hiu.vn/xet-tuyen-dai-hoc/">Tuyển sinh 2025</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-5051 menu-item' id='mega-menu-item-5051'><a class="dashicons-arrow-right mega-menu-link" href="https://hiu.vn/hoc-bong/">Học bổng 2025</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-icon mega-icon-left mega-menu-item-72486 menu-item' id='mega-menu-item-72486'><a class="dashicons-arrow-right mega-menu-link" href="https://xettuyen.hiu.vn">Đăng ký xét tuyển</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-icon mega-icon-left mega-menu-item-3218 menu-item' id='mega-menu-item-3218'><a class="dashicons-arrow-right mega-menu-link" href="https://online.hiu.vn/tra-cuu-thong-tin-trung-tuyen.html">Tra cứu kết quả</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-icon mega-icon-left mega-menu-item-72487 menu-item' id='mega-menu-item-72487'><a class="dashicons-arrow-right mega-menu-link" href="https://student.hiu.vn/nhap-hoc-truc-tuyen.html">Nhập học Online</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-icon mega-icon-left mega-menu-item-72490 menu-item' id='mega-menu-item-72490'><a class="dashicons-arrow-right mega-menu-link" href="https://hiu.vn/category/dinh-huong-tuong-lai/">Định hướng nghề nghiệp</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-6427 menu-item' id='mega-menu-item-6427'><a class="dashicons-arrow-right mega-menu-link" href="https://hiu.vn/hoc-phi/">Học phí</a></li>				</ul>
+</li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-68720 menu-item' id='mega-menu-item-68720'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/tuyen-sinh/tuyen-sinh-lien-thong-dai-hoc/">Liên thông Đại học</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-3208 menu-item' id='mega-menu-item-3208'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/tuyen-sinh/tuyen-sinh-sau-dai-hoc/">Sau đại học</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-icon mega-icon-left mega-menu-item-78974 menu-item' id='mega-menu-item-78974'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/gioi-thieu/cac-don-vi/vien/vien-dao-tao-sau-dai-hoc-dao-tao-lien-tuc/dao-tao-lien-tuc/#chieusinh">Đào tạo liên tục</a></li>			</ul>
+</li>		</ul>
+</li><li class='mega-menu-column mega-menu-columns-1-of-3 menu-item' id='mega-menu-72538-0-1'>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-widget widget_media_image mega-menu-item-media_image-11 menu-item' id='mega-menu-item-media_image-11'><img width="684" height="501" src="../../../../uploads/2020/02/HIU-dai-hoc-quoc-te-hong-bang-1.png" class="image wp-image-74256  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="../../../../uploads/2020/02/HIU-dai-hoc-quoc-te-hong-bang-1.png 684w, ../../../../uploads/2020/02/HIU-dai-hoc-quoc-te-hong-bang-1-300x220.png 300w" sizes="(max-width: 684px) 100vw, 684px" /></li>		</ul>
+</li>	</ul>
+</li></ul>
+</li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-left mega-menu-grid mega-menu-item-3251 menu-item' id='mega-menu-item-3251'><a class="mega-menu-link" href="https://hiu.vn/?page_id=3247" aria-haspopup="true" aria-expanded="false" tabindex="0">Đào tạo<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-row menu-item' id='mega-menu-3251-0'>
+<ul class="mega-sub-menu">
+<li class='mega-menu-column mega-menu-columns-1-of-2 menu-item' id='mega-menu-3251-0-0'>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-72494 menu-item' id='mega-menu-item-72494'><a class="mega-menu-link" href="owl.video.play.png#">Chương trình Đại học<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-2714 menu-item' id='mega-menu-item-2714'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/hoc-tap-tai-hiu/chuong-trinh-cu-nhan/">Chương trình Tiếng Việt</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-2958 menu-item' id='mega-menu-item-2958'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/hoc-tap-tai-hiu/chuong-trinh-tieng-anh/">Chương trình Tiếng Anh</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-70664 menu-item' id='mega-menu-item-70664'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/?page_id=5331">Chương trình Quốc tế</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-56001 menu-item' id='mega-menu-item-56001'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/hoc-tap-tai-hiu/chuong-trinh-cu-nhan/chuong-trinh-song-bang/">Chương trình song bằng</a></li>			</ul>
+</li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-2959 menu-item' id='mega-menu-item-2959'><a class="mega-menu-link" href="https://hiu.vn/hoc-tap-tai-hiu/chuong-trinh-sau-dai-hoc/">Chương trình Sau ĐH</a></li>		</ul>
+</li><li class='mega-menu-column mega-menu-columns-1-of-2 menu-item' id='mega-menu-3251-0-1'>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-widget widget_media_image mega-menu-item-media_image-6 menu-item' id='mega-menu-item-media_image-6'><img width="684" height="501" src="../../../../uploads/2020/02/HIU-dai-hoc-quoc-te-hong-bang-1.png" class="image wp-image-74256  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="../../../../uploads/2020/02/HIU-dai-hoc-quoc-te-hong-bang-1.png 684w, ../../../../uploads/2020/02/HIU-dai-hoc-quoc-te-hong-bang-1-300x220.png 300w" sizes="(max-width: 684px) 100vw, 684px" /></li>		</ul>
+</li>	</ul>
+</li></ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-left mega-menu-megamenu mega-menu-item-72495 menu-item' id='mega-menu-item-72495'><a class="mega-menu-link" href="owl.video.play.png#" aria-haspopup="true" aria-expanded="false" tabindex="0">Khoa - Viện<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-2-columns mega-menu-columns-2-of-3 mega-menu-item-74258 menu-item' id='mega-menu-item-74258'><a class="mega-menu-link" href="owl.video.play.png#">Khoa - Viện<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-icon mega-icon-left mega-menu-item-72496 menu-item' id='mega-menu-item-72496'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/gioi-thieu/cac-don-vi/khoa/khoa-y/">Khoa Y</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-icon mega-icon-left mega-menu-item-72497 menu-item' id='mega-menu-item-72497'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/gioi-thieu/cac-don-vi/khoa/khoa-rang-ham-mat/">Khoa Răng Hàm Mặt</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-icon mega-icon-left mega-menu-item-72498 menu-item' id='mega-menu-item-72498'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/gioi-thieu/cac-don-vi/khoa/khoa-duoc/">Khoa Dược</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-icon mega-icon-left mega-menu-item-72499 menu-item' id='mega-menu-item-72499'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/gioi-thieu/cac-don-vi/khoa/khoa-dieu-duong-ho-sinh/">Khoa Điều dưỡng - Hộ sinh</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-icon mega-icon-left mega-menu-item-72500 menu-item' id='mega-menu-item-72500'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/gioi-thieu/cac-don-vi/khoa/khoa-xet-nghiem-y-hoc/">Khoa Xét nghiệm y học</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-icon mega-icon-left mega-menu-item-72501 menu-item' id='mega-menu-item-72501'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/gioi-thieu/cac-don-vi/khoa/ky-thuat-phuc-hoi-chuc-nang/">Khoa Phục hồi chức năng</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-icon mega-icon-left mega-menu-item-72502 menu-item' id='mega-menu-item-72502'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/gioi-thieu/cac-don-vi/khoa/ktqt/">Khoa Kinh tế - Quản trị</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-icon mega-icon-left mega-menu-item-72503 menu-item' id='mega-menu-item-72503'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/gioi-thieu/cac-don-vi/khoa/khoa-ngon-ngu-va-van-hoa-quoc-te/">Khoa NN & VHQT</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-icon mega-icon-left mega-menu-item-72504 menu-item' id='mega-menu-item-72504'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/gioi-thieu/cac-don-vi/khoa/khoa-khoa-hoc-xa-hoi/">Khoa Khoa học xã hội</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-icon mega-icon-left mega-menu-item-72505 menu-item' id='mega-menu-item-72505'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/gioi-thieu/cac-don-vi/khoa/khoa-cong-nghe-ky-thuat/">Khoa Kỹ thuật Công nghệ</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-icon mega-icon-left mega-menu-item-72506 menu-item' id='mega-menu-item-72506'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/gioi-thieu/cac-don-vi/khoa/bo-mon-giao-duc-the-chat/">Bộ môn Giáo dục thể chất</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-77370 menu-item' id='mega-menu-item-77370'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/vien/vien-khoa-hoc-giao-duc/">Viện KH Giáo dục & ĐT giáo viên</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-74545 menu-item' id='mega-menu-item-74545'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/vien/vien-dao-tao-va-hop-tac-quoc-te/">Viện Đào tạo & Hợp tác quốc tế</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-74782 menu-item' id='mega-menu-item-74782'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/vien/vien-dao-tao-sau-dai-hoc-dao-tao-lien-tuc/">Viện ĐT Sau đại học – ĐT liên tục</a></li>	</ul>
+</li><li class='mega-menu-item mega-menu-item-type-widget widget_media_image mega-menu-columns-1-of-3 mega-menu-item-media_image-7 menu-item' id='mega-menu-item-media_image-7'><img width="801" height="501" src="../../../../uploads/2020/02/cac-khoa-phong-TT.png" class="image wp-image-74257  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="../../../../uploads/2020/02/cac-khoa-phong-TT.png 801w, ../../../../uploads/2020/02/cac-khoa-phong-TT-300x188.png 300w, ../../../../uploads/2020/02/cac-khoa-phong-TT-768x480.png 768w" sizes="(max-width: 801px) 100vw, 801px" /></li></ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-left mega-menu-grid mega-menu-item-84235 menu-item' id='mega-menu-item-84235'><a class="mega-menu-link" href="owl.video.play.png#" aria-haspopup="true" aria-expanded="false" tabindex="0">Cuộc sống tại HIU<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-row menu-item' id='mega-menu-84235-0'>
+<ul class="mega-sub-menu">
+<li class='mega-menu-column mega-menu-columns-4-of-12 menu-item' id='mega-menu-84235-0-0'>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-74890 menu-item' id='mega-menu-item-74890'><a class="mega-menu-link" href="https://student.hiu.vn/sinh-vien/dm-tin-tuc/tan-sinh-vien.html">Tân sinh viên<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-icon mega-icon-left mega-menu-item-75089 menu-item' id='mega-menu-item-75089'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://student.hiu.vn/sinh-vien/tin-tuc/huong-dan-chon-nguyen-vong-nhap-hoc.html">Hướng dẫn thí sinh chọn nguyện vọng nhập học</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-icon mega-icon-left mega-menu-item-75090 menu-item' id='mega-menu-item-75090'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://student.hiu.vn/sinh-vien/tin-tuc/huong-dan-thi-sinh-nhap-hoc-truc-tuyen.html">Hướng dẫn thí sinh nhập học trực tuyến</a></li>			</ul>
+</li>		</ul>
+</li><li class='mega-menu-column mega-menu-columns-4-of-12 menu-item' id='mega-menu-84235-0-1'>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-72507 menu-item' id='mega-menu-item-72507'><a class="mega-menu-link" href="https://student.hiu.vn/sinh-vien/dm-tin-tuc/tan-sinh-vien.html">Sinh viên<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-51866 menu-item' id='mega-menu-item-51866'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/cuoc-song-tai-hiu/cong-tac-sinh-vien/">Công tác sinh viên</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-2554 menu-item' id='mega-menu-item-2554'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/cuoc-song-tai-hiu/trai-nghiem-sinh-vien/">Trải nghiệm sinh viên</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-48731 menu-item' id='mega-menu-item-48731'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/en/life-at-hiu/internationalstudent/">Sinh viên Quốc tế</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-icon mega-icon-left mega-menu-item-62396 menu-item' id='mega-menu-item-62396'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="http://job.hiu.vn/">Việc làm Sinh viên</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-2527 menu-item' id='mega-menu-item-2527'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/cuoc-song-tai-hiu/cau-lac-bo-sinh-vien/">Câu lạc bộ Sinh viên</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-29959 menu-item' id='mega-menu-item-29959'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/cuoc-song-tai-hiu/y-te-suc-khoe/">Y tế - Sức khoẻ</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-2121 menu-item' id='mega-menu-item-2121'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/gioi-thieu/co-so-hoc-tap/">Cơ sở học tập</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-2553 menu-item' id='mega-menu-item-2553'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/cuoc-song-tai-hiu/dich-vu-food-court/">Dịch vụ Food Court</a></li>			</ul>
+</li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-4470 menu-item' id='mega-menu-item-4470'><a class="mega-menu-link" href="https://hiu.vn/cuoc-song-tai-hiu/cuu-sinh-vien/">Cựu sinh viên</a></li>		</ul>
+</li><li class='mega-menu-column mega-menu-columns-3-of-12 menu-item' id='mega-menu-84235-0-2'>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-widget widget_media_image mega-menu-item-media_image-8 menu-item' id='mega-menu-item-media_image-8'><img width="521" height="785" src="../../../../uploads/2020/02/HIU1.png" class="image wp-image-74259  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="../../../../uploads/2020/02/HIU1.png 521w, ../../../../uploads/2020/02/HIU1-199x300.png 199w" sizes="(max-width: 521px) 100vw, 521px" /></li>		</ul>
+</li>	</ul>
+</li></ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-left mega-menu-grid mega-menu-item-72508 menu-item' id='mega-menu-item-72508'><a class="mega-menu-link" href="owl.video.play.png#" aria-haspopup="true" aria-expanded="false" tabindex="0">Tiện ích<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-row menu-item' id='mega-menu-72508-0'>
+<ul class="mega-sub-menu">
+<li class='mega-menu-column mega-menu-columns-2-of-3 menu-item' id='mega-menu-72508-0-0'>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-2-columns mega-menu-item-74268 menu-item' id='mega-menu-item-74268'><a class="mega-menu-link" href="owl.video.play.png#">Bản tin<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-icon mega-icon-left mega-menu-item-72509 menu-item' id='mega-menu-item-72509'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/category/tin-tuc/">Hoạt động trường</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-icon mega-icon-left mega-menu-item-72510 menu-item' id='mega-menu-item-72510'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/category/tuyen-sinh/">Tin tuyển sinh</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-icon mega-icon-left mega-menu-item-61273 menu-item' id='mega-menu-item-61273'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://sukien.hiu.vn/">Góc ảnh HIU</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-58231 menu-item' id='mega-menu-item-58231'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/cuoc-song-tai-hiu/hiu-dna-2/">HIU DNA</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-has-icon mega-icon-left mega-menu-item-50654 menu-item' id='mega-menu-item-50654'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="owl.video.play.png#" aria-haspopup="true" aria-expanded="false">Tuyển dụng<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-icon mega-icon-left mega-menu-item-27947 menu-item' id='mega-menu-item-27947'><a class="dashicons-arrow-right mega-menu-link" href="https://tuyendung.nhg.vn/nghe-nghiep?search%5Bsubsidiary_id%5D=10">NHG</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-20441 menu-item' id='mega-menu-item-20441'><a class="dashicons-arrow-right mega-menu-link" href="https://hiu.vn/gioi-thieu/lam-viec-tai-hiu/">HIU</a></li>				</ul>
+</li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-80285 menu-item' id='mega-menu-item-80285'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/tt-gv-sv/">THÔNG TIN GIẢNG VIÊN – SINH VIÊN</a></li>			</ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-item-50691 menu-item' id='mega-menu-item-50691'><a class="mega-menu-link" href="owl.video.play.png#">Tiện ích<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-icon mega-icon-left mega-menu-item-1803 menu-item' id='mega-menu-item-1803'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/gioi-thieu/cac-khoa-va-phong/trung-tam/thu-vien/">Thư viện</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-has-icon mega-icon-left mega-menu-item-75909 menu-item' id='mega-menu-item-75909'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://hiu.vn/cong-dao-tao-truc-tuyen/">Cổng đào tạo trực tuyến</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-icon mega-icon-left mega-menu-item-3199 menu-item' id='mega-menu-item-3199'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://student.hiu.vn/">Cổng thông tin sinh viên</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-icon mega-icon-left mega-menu-item-74889 menu-item' id='mega-menu-item-74889'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://lecturer.hiu.vn/">Cổng thông tin giảng viên</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-has-icon mega-icon-left mega-menu-item-67066 menu-item' id='mega-menu-item-67066'><a class="dashicons-arrow-right-alt2 mega-menu-link" href="https://student.hiu.vn/tra-cuu-van-bang.html">Tra cứu văn bằng</a></li>			</ul>
+</li>		</ul>
+</li><li class='mega-menu-column mega-menu-columns-1-of-3 menu-item' id='mega-menu-72508-0-1'>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-widget widget_media_image mega-menu-item-media_image-10 menu-item' id='mega-menu-item-media_image-10'><img width="800" height="558" src="../../../../uploads/2020/02/chinh-sach-hoc-bong-cua-hiu.jpg" class="image wp-image-74270  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="../../../../uploads/2020/02/chinh-sach-hoc-bong-cua-hiu.jpg 800w, ../../../../uploads/2020/02/chinh-sach-hoc-bong-cua-hiu-300x209.jpg 300w, ../../../../uploads/2020/02/chinh-sach-hoc-bong-cua-hiu-768x536.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></li>		</ul>
+</li>	</ul>
+</li></ul>
+</li></ul></div>                </div><!-- top-bar Ends -->
+<!-- Navigation Code Ends here -->
+<div class="search-wrap float-right">
+<a href="owl.video.play.png#" class="search-icon-toggle" data-toggle="search-dropdown"><i class="fa fa-search"></i></a>
+</div><!-- search wrap ends -->
+<div class="dropdown-pane" id="search-dropdown" data-dropdown data-auto-focus="true">
+<form role="search" method="get" class="search_form" action="owl.video.play.png">
+<input type="text" class="search_field" placeholder="Search &hellip;" value="" name="s" title="Search for:" /><button type="submit" class="button primary"><i class="fa fa-search"></i></button></form>                    </div>
+</div><!-- right Ends /-->
+</div><!-- Row Ends /-->
+</div>
+<!-- Header Ends /-->
+</div><!-- Sticky Container /-->            
+<!-- Content Area -->
+<!-- Post Starts -->
+<div id="post-623" class="full-width moduled-page post-623 page type-page status-publish has-post-thumbnail hentry">
+<div class="kc_clfw"></div><div class="kc-elm kc-css-152863 kc-animated kc-animate-eff-fadeInUp kc-row-container module"><div class="wc-row"><div class="kc-wrap-columns"><div class="kc-elm kc-css-635134 small-12 columns small-12"><div class="kc-col-container"><div class="widget widget_revslider kc-elm kc-css-343191">
+<!-- START slide trangchu4 item REVOLUTION SLIDER 6.1.5 --><p class="rs-p-wp-fix"></p>
+<rs-module-wrap id="rev_slider_25_1_wrapper" data-source="gallery" style="background:transparent;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;">
+<rs-module id="rev_slider_25_1" style="display:none;" data-version="6.1.5">
+<rs-slides>
+<rs-slide data-key="rs-309" data-title="Slide" data-thumb="//hiu.vn/wp-content/uploads/2020/02/z6440574916824_317e1c6e7c24cd98796f670e450a9816-100x50.jpg" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
+<img src="../../../../plugins/revslider/public/assets/assets/dummy.png" title="z6440574916824_317e1c6e7c24cd98796f670e450a9816" width="2560" height="853" data-lazyload="//hiu.vn/wp-content/uploads/2020/02/z6440574916824_317e1c6e7c24cd98796f670e450a9816.jpg" class="rev-slidebg" data-no-retina>
+<!--
+--><a
+id="slider-25-slide-309-layer-0" 
+class="rs-layer"
+href="https://hiu.vn/dinh-huong-tuong-lai/hiu-tuyen-sinh-2025/" target="_blank" rel="nofollow"
+data-type="image"
+data-rsp_ch="on"
+data-xy="x:-220px;y:-20px;"
+data-text="w:normal;"
+data-dim="w:2281px;h:1521px;"
+data-frame_999="o:0;st:w;"
+style="z-index:1;"
+><img src="../../../../plugins/revslider/public/assets/assets/dummy.png" data-lazyload="" data-no-retina> 
+</a><!--
+-->						</rs-slide>
+<rs-slide data-key="rs-308" data-title="Slide" data-thumb="//hiu.vn/wp-content/uploads/2020/02/zzzzzzzzzz-100x50.jpg" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
+<img src="../../../../plugins/revslider/public/assets/assets/dummy.png" title="zzzzzzzzzz" width="2560" height="853" data-lazyload="//hiu.vn/wp-content/uploads/2020/02/zzzzzzzzzz.jpg" class="rev-slidebg" data-no-retina>
+<!--
+--><a
+id="slider-25-slide-308-layer-0" 
+class="rs-layer"
+href="https://hiu.vn/tin-tuc/future-builder-fest-2025-chuoi-ngay-hoi-khoi-nghiep-lon-nhat-danh-cho-hoc-sinh-thpt/" target="_blank" rel="nofollow"
+data-type="image"
+data-rsp_ch="on"
+data-xy="x:-220px;y:-20px;"
+data-text="w:normal;"
+data-dim="w:2281px;h:1521px;"
+data-frame_999="o:0;st:w;"
+style="z-index:5;"
+><img src="../../../../plugins/revslider/public/assets/assets/dummy.png" data-lazyload="" data-no-retina> 
+</a><!--
+-->						</rs-slide>
+<rs-slide data-key="rs-305" data-title="Slide" data-thumb="//hiu.vn/wp-content/uploads/2025/02/bannerzzz-100x50.jpg" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
+<img src="../../../../plugins/revslider/public/assets/assets/dummy.png" title="bannerzzz" width="2560" height="853" data-lazyload="//hiu.vn/wp-content/uploads/2025/02/bannerzzz.jpg" class="rev-slidebg" data-no-retina>
+<!---->						</rs-slide>
+<rs-slide data-key="rs-306" data-title="Slide" data-thumb="//hiu.vn/wp-content/uploads/2020/02/z6398562260097_d8e9e3af964d66751197a76e43c3ca84-100x50.jpg" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
+<img src="../../../../plugins/revslider/public/assets/assets/dummy.png" title="z6398562260097_d8e9e3af964d66751197a76e43c3ca84" width="2560" height="853" data-lazyload="//hiu.vn/wp-content/uploads/2020/02/z6398562260097_d8e9e3af964d66751197a76e43c3ca84.jpg" class="rev-slidebg" data-no-retina>
+<!--
+--><a
+id="slider-25-slide-306-layer-0" 
+class="rs-layer"
+href="https://xettuyen.hiu.vn/dang-ky-ho-so-xet-tuyen-theo-dot.html?p=7qgKYXoc0z3QAWLsOggiPQYz-NnkpFKQx1GIwzgnVbw" target="_blank" rel="nofollow"
+data-type="image"
+data-rsp_ch="on"
+data-xy="x:-220px;y:-20px;"
+data-text="w:normal;"
+data-dim="w:2281px;h:1521px;"
+data-frame_999="o:0;st:w;"
+style="z-index:5;"
+><img src="../../../../plugins/revslider/public/assets/assets/dummy.png" data-lazyload="" data-no-retina> 
+</a><!--
+-->						</rs-slide>
+<rs-slide data-key="rs-289" data-title="Slide" data-thumb="//hiu.vn/wp-content/uploads/2020/02/BannerWeb_2-100x50.jpg" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
+<img src="../../../../plugins/revslider/public/assets/assets/dummy.png" title="BannerWeb_2" width="1920" height="640" data-lazyload="//hiu.vn/wp-content/uploads/2020/02/BannerWeb_2.jpg" class="rev-slidebg" data-no-retina>
+<!---->						</rs-slide>
+<rs-slide data-key="rs-310" data-title="Slide" data-thumb="//hiu.vn/wp-content/uploads/2020/02/met-moi-100x50.jpg" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
+<img src="../../../../plugins/revslider/public/assets/assets/dummy.png" title="mệt mỏi" width="2560" height="853" data-lazyload="//hiu.vn/wp-content/uploads/2020/02/met-moi.jpg" class="rev-slidebg" data-no-retina>
+<!---->						</rs-slide>
+</rs-slides>
+<rs-progress class="rs-bottom" style="visibility: hidden !important;"></rs-progress>
+</rs-module>
+<script type="text/javascript">
+setREVStartSize({c: 'rev_slider_25_1',rl:[1240,1024,778,480],el:[640],gw:[1920],gh:[640],layout:'fullwidth',mh:"0"});
+var	revapi25,
+tpj;
+jQuery(function() {
+tpj = jQuery;
+if(tpj("#rev_slider_25_1").revolution == undefined){
+revslider_showDoubleJqueryError("#rev_slider_25_1");
+}else{
+revapi25 = tpj("#rev_slider_25_1").show().revolution({
+jsFileLocation:"//hiu.vn/wp-content/plugins/revslider/public/assets/js/",
+sliderLayout:"fullwidth",
+duration:"4000ms",
+visibilityLevels:"1240,1024,778,480",
+gridwidth:1920,
+gridheight:640,
+minHeight:"",
+lazyType:"smart",
+editorheight:"640,640,939,160",
+responsiveLevels:"1240,1024,778,480",
+disableProgressBar:"on",
+navigation: {
+mouseScrollNavigation:false,
+onHoverStop:false,
+touch: {
+touchenabled:true
+},
+arrows: {
+enable:true,
+style:"uranus",
+hide_onmobile:true,
+hide_under:767,
+left: {
+},
+right: {
+}
+},
+bullets: {
+enable:true,
+tmp:"",
+style:"hermes"
+}
+},
+fallbacks: {
+ignoreHeightChanges:"mobile",
+allowHTML5AutoPlayOnAndroid:true
+},
+});
+}
+});
+</script>
+<script>
+var htmlDivCss = unescape(".rev_slider%2C%20.rev_slider_wrapper%20%7B%20%0Aoverflow%3Ahidden%20%21important%3B%0A%7D%0A.rev_slider%20rs-sbg-wrap%3Aafter%20%7B%0A%20%20%20%20width%3A%20100%25%3B%0A%20%20%20%20height%3A%20100%25%3B%0A%20%20%20%20content%3A%20%22%22%3B%0A%20%20%20%20position%3A%20absolute%3B%0A%20%20%20%20left%3A%200%3B%0A%20%20%20%20top%3A%200%3B%0A%20%20%20%20pointer-events%3A%20none%3B%0A%20%0A%20%20%20%20%2F%2A%20black%20overlay%20with%2050%25%20transparency%20%2A%2F%0A%20%20%20%20background%3Argba%280%2C%200%2C%200%2C%200.3%29%3B%0A%7D");
+var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+if(htmlDiv) {
+htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+}else{
+var htmlDiv = document.createElement('div');
+htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+}
+</script>
+<script>
+var htmlDivCss = unescape("%23rev_slider_25_1_wrapper%20.uranus.tparrows%20%7B%0A%20%20width%3A60px%3B%0A%20%20height%3A60px%3B%0A%20%20background%3Argba%28255%2C255%2C255%2C0%29%3B%0A%20%7D%0A%20%23rev_slider_25_1_wrapper%20.uranus.tparrows%3Abefore%20%7B%0A%20width%3A60px%3B%0A%20height%3A60px%3B%0A%20line-height%3A60px%3B%0A%20font-size%3A60px%3B%0A%20transition%3Aall%200.3s%3B%0A-webkit-transition%3Aall%200.3s%3B%0A%20%7D%0A%20%0A%20%20%23rev_slider_25_1_wrapper%20.uranus.tparrows%3Ahover%3Abefore%20%7B%0A%20%20%20%20opacity%3A0.75%3B%0A%20%20%7D%0A%23rev_slider_25_1_wrapper%20.hermes.tp-bullets%20%7B%0A%7D%0A%0A%23rev_slider_25_1_wrapper%20.hermes%20.tp-bullet%20%7B%0A%20%20%20%20overflow%3Ahidden%3B%0A%20%20%20%20border-radius%3A50%25%3B%0A%20%20%20%20width%3A12px%3B%0A%20%20%20%20height%3A12px%3B%0A%20%20%20%20background-color%3A%20rgba%280%2C%200%2C%200%2C%200%29%3B%0A%20%20%20%20box-shadow%3A%20inset%200%200%200%202px%20%23ffffff%3B%0A%20%20%20%20-webkit-transition%3A%20background%200.3s%20ease%3B%0A%20%20%20%20transition%3A%20background%200.3s%20ease%3B%0A%20%20%20%20position%3Aabsolute%3B%0A%7D%0A%0A%23rev_slider_25_1_wrapper%20.hermes%20.tp-bullet%3Ahover%20%7B%0A%09%20%20background-color%3A%20rgba%280%2C0%2C0%2C0.21%29%3B%0A%7D%0A%23rev_slider_25_1_wrapper%20.hermes%20.tp-bullet%3Aafter%20%7B%0A%20%20content%3A%20%27%20%27%3B%0A%20%20position%3A%20absolute%3B%0A%20%20bottom%3A%200%3B%0A%20%20height%3A%200%3B%0A%20%20left%3A%200%3B%0A%20%20width%3A%20100%25%3B%0A%20%20background-color%3A%20%23ffffff%3B%0A%20%20box-shadow%3A%200%200%201px%20%23ffffff%3B%0A%20%20-webkit-transition%3A%20height%200.3s%20ease%3B%0A%20%20transition%3A%20height%200.3s%20ease%3B%0A%7D%0A%23rev_slider_25_1_wrapper%20.hermes%20.tp-bullet.selected%3Aafter%20%7B%0A%20%20height%3A100%25%3B%0A%7D%0A%0A");
+var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+if(htmlDiv) {
+htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+}else{
+var htmlDiv = document.createElement('div');
+htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+}
+</script>
+<script>
+var htmlDivCss = unescape("%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A");
+var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+if(htmlDiv) {
+htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+}else{
+var htmlDiv = document.createElement('div');
+htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+}
+</script>
+</rs-module-wrap>
+<!-- END REVOLUTION SLIDER -->
+</div></div></div></div></div></div><div id="home-page__tin-tuc" class="kc-elm kc-css-713379 kc-animated kc-animate-eff-fadeInUp kc-row-container module"><div class="wc-row"><div class="kc-wrap-columns"><div class="kc-elm kc-css-123591 small-12 columns small-12"><div class="kc-col-container"><div class="kc-elm kc-css-603772 kc_row kc_row_inner"><div class="kc-elm kc-css-867760 small-12 columns small-12"><div class="kc_wrapper kc-col-inner-container">
+<div class="kc-elm kc-css-448527 kc_shortcode kc_video_play kc_video_wrapper" data-video="https://www.youtube.com/watch?v=IEAnO2WnbTs" data-width="600" data-height="338.98305084746" data-fullwidth="" data-autoplay="yes" data-loop="yes" data-control="yes" data-related="" data-showinfo="" data-kc-video-mute="">
+</div>
+</div></div><div class="kc-elm kc-css-488946 small-12 columns small-12"><div class="kc_wrapper kc-col-inner-container"><div class="kc-elm kc-css-527446 kc_text_block"><p style="margin-left: 18.0pt; text-align: justify;"><span style="color: #081c36; font-family: SegoeuiPc, &#039;Segoe UI&#039;, &#039;San Francisco&#039;, &#039;Helvetica Neue&#039;, Helvetica, &#039;Lucida Grande&#039;, Roboto, Ubuntu, Tahoma, &#039;Microsoft Sans Serif&#039;, Arial, sans-serif; font-size: 15px; letter-spacing: 0.2px; white-space-collapse: preserve;"><strong>Trường Đại học Quốc tế Hồng Bàng (HIU)</strong> đào tạo đa ngành, đa lĩnh vực với 48 chương trình đào tạo đại học, 22 chương trình đào tạo tiến sĩ, thạc sĩ, chuyên khoa cấp 1, bao gồm các chương trình giảng dạy bằng tiếng Việt, tiếng Anh ở hầu hết các lĩnh vực trọng yếu của xã hội như: Khoa học Sức khỏe, Kinh tế – Quản trị, Ngôn ngữ và văn hóa Quốc tế, Khoa học Xã hội, Công nghệ – Kỹ thuật, Khoa học giáo dục và đào tạo giáo viên.</span></p>
+<p><span style="color: #081c36; font-family: SegoeuiPc, &#039;Segoe UI&#039;, &#039;San Francisco&#039;, &#039;Helvetica Neue&#039;, Helvetica, &#039;Lucida Grande&#039;, Roboto, Ubuntu, Tahoma, &#039;Microsoft Sans Serif&#039;, Arial, sans-serif; font-size: 15px; letter-spacing: 0.2px; white-space-collapse: preserve;">HIU không chỉ là môi trường Quốc tế đậm màu sắc đa văn hóa mà còn mang đến nhiều trải nghiệm tuyệt vời qua từng bài học và các bài thực hành sát với nhu cầu thực tiễn. Với hơn 500 Doanh nghiệp đồng hành, <strong>HIU tự tin mang lại nhiều cơ hội thực tập và việc làm ngay từ khi còn ngồi dưới ghế nhà Trường.</strong></span></p>
+</div></div></div></div></div></div></div></div></div><div id="home-page__tuyen-sinh" class="kc-elm kc-css-12559 kc-animated kc-animate-eff-fadeInUp kc-row-container module"><div class="wc-row"><div class="kc-wrap-columns"><div class="kc-elm kc-css-742389 small-12 columns small-12"><div class="kc-col-container">
+<div class="kc-elm kc-css-231456 kc-title-wrap ">
+<h2 class="kc_title"><a href="https://hiu.vn/category/tuyen-sinh/" class="kc_title_link" title="" target="">Thông tin tuyển sinh</a></h2>
+</div>
+<div class="kc-elm kc-css-503821 divider_line">
+<div class="divider_inner divider_line2">
+<i class="et-megaphone"></i>	</div>
+</div>
+<div class="kc-elm kc-css-627326 kc_row kc_row_inner"><div class="kc-elm kc-css-275920 small-12 columns small-12"><div class="kc_wrapper kc-col-inner-container">
+<div class="kc-elm kc-css-503590 kc-blog-posts kc-blog-posts-3 kc-blog-grid kc_blog_masonry kc-image-align-both">
+<div class="post-grid grid-4">
+<div class="kc-list-item-3">
+<a href="https://hiu.vn/tuyen-sinh/hiu-ap-dung-5-phuong-thuc-tuyen-sinh-cho-42-nganh-hoc/" class="entry-thumb-link">
+<div class="entry-thumb-wrapper">
+<img src="../../../../uploads/2025/03/5-phuong-thuc-xet-tuyen-tai-hiu-2025.jpg"
+alt="HIU áp dụng 5 phương thức tuyển sinh cho 42 ngành học"/>
+<div class="entry-thumb-overlay"></div>
+</div>
+</a>
+<div class="content">
+<h2 class="post-title-alt"><a
+href="https://hiu.vn/tuyen-sinh/hiu-ap-dung-5-phuong-thuc-tuyen-sinh-cho-42-nganh-hoc/">HIU áp dụng 5 phương thức tuyển sinh cho 42 ngành học</a>
+</h2>
+<div class="entry-meta">
+<span class="entry-cats"><a href="https://hiu.vn/category/tuyen-sinh/" rel="category tag">Tuyển Sinh</a></span>
+</div>
+<div class="entry-excerpt">
+<p>Trường Đại học Quốc tế Hồng Bàng (Mã trường: HIU) áp dụng 5 phương thức xét tuyển cho 42 ngành&hellip;</p>
+</div>
+</div>
+</div>
+</div>
+<div class="post-grid grid-4">
+<div class="kc-list-item-3">
+<a href="https://hiu.vn/tuyen-sinh/moi-chot-lich-thi-tot-nghiep-thpt-nam-2025/" class="entry-thumb-link">
+<div class="entry-thumb-wrapper">
+<img src="../../../../uploads/2025/03/lich-thi-tot-nghiep-thpt-2025-2-3.jpg"
+alt="[MỚI] Chốt lịch thi tốt nghiệp THPT năm 2025"/>
+<div class="entry-thumb-overlay"></div>
+</div>
+</a>
+<div class="content">
+<h2 class="post-title-alt"><a
+href="https://hiu.vn/tuyen-sinh/moi-chot-lich-thi-tot-nghiep-thpt-nam-2025/">[MỚI] Chốt lịch thi tốt nghiệp THPT năm 2025</a>
+</h2>
+<div class="entry-meta">
+<span class="entry-cats"><a href="https://hiu.vn/category/tuyen-sinh/" rel="category tag">Tuyển Sinh</a></span>
+</div>
+<div class="entry-excerpt">
+<p>Kỳ thi tốt nghiệp THPT năm 2025 diễn ra trong hai ngày 26-27/6, với hai lịch thi dành cho thí&hellip;</p>
+</div>
+</div>
+</div>
+</div>
+<div class="post-grid grid-4">
+<div class="kc-list-item-3">
+<a href="https://hiu.vn/tuyen-sinh/hiu-thuc-day-tich-hop-cac-chuong-trinh-ve-robot-ai-va-iot-vao-chuong-trinh-hoc/" class="entry-thumb-link">
+<div class="entry-thumb-wrapper">
+<img src="../../../../uploads/2025/03/dai-hoc-quoc-te-hong-bang-sinh-vien-hiu-nen.jpg"
+alt="HIU thúc đẩy tích hợp các chương trình về Robot, AI và IoT vào chương trình giảng dạy chính quy"/>
+<div class="entry-thumb-overlay"></div>
+</div>
+</a>
+<div class="content">
+<h2 class="post-title-alt"><a
+href="https://hiu.vn/tuyen-sinh/hiu-thuc-day-tich-hop-cac-chuong-trinh-ve-robot-ai-va-iot-vao-chuong-trinh-hoc/">HIU thúc đẩy tích hợp các chương trình về Robot, AI và IoT vào chương trình giảng dạy chính quy</a>
+</h2>
+<div class="entry-meta">
+<span class="entry-cats"><a href="https://hiu.vn/category/tin-tuc/" rel="category tag">Tin tức</a>, <a href="https://hiu.vn/category/tuyen-sinh/" rel="category tag">Tuyển Sinh</a></span>
+</div>
+<div class="entry-excerpt">
+<p>Tại sự kiện diễn ra vào ngày 23/3/2025, một trong những dấu ấn và tạo nhiều tương tác nhất chính&hellip;</p>
+</div>
+</div>
+</div>
+</div>
+<div class="post-grid grid-4">
+<div class="kc-list-item-3">
+<a href="https://hiu.vn/tuyen-sinh/hiu-tuyen-sinh-2025/" class="entry-thumb-link">
+<div class="entry-thumb-wrapper">
+<img src="../../../../uploads/2025/03/phuong_thuc_xet_tuyen_2025.jpg"
+alt="HIU tuyển sinh 42 ngành học &#8211; Bổ sung nhiều ngành mới trong năm 2025"/>
+<div class="entry-thumb-overlay"></div>
+</div>
+</a>
+<div class="content">
+<h2 class="post-title-alt"><a
+href="https://hiu.vn/tuyen-sinh/hiu-tuyen-sinh-2025/">HIU tuyển sinh 42 ngành học &#8211; Bổ sung nhiều ngành mới trong năm 2025</a>
+</h2>
+<div class="entry-meta">
+<span class="entry-cats"><a href="https://hiu.vn/category/tuyen-sinh/" rel="category tag">Tuyển Sinh</a></span>
+</div>
+<div class="entry-excerpt">
+<p>Với bề dày gần 30 năm trong lĩnh vực giáo dục, Trường Đại học Quốc tế Hồng Bàng (HIU) không&hellip;</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></div></div></div></div></div></div></div><div id="home-page__tin-tuc" class="kc-elm kc-css-133432 kc-animated kc-animate-eff-fadeInUp kc-row-container module"><div class="wc-row"><div class="kc-wrap-columns"><div class="kc-elm kc-css-646868 small-12 columns small-12"><div class="kc-col-container">
+<div class="kc-elm kc-css-287835 kc-title-wrap ">
+<h2 class="kc_title"><a href="https://hiu.vn/category/tin-tuc/" class="kc_title_link" title="" target="">Tin tức - Sự kiện</a></h2>
+</div>
+<div class="kc-elm kc-css-637121 divider_line">
+<div class="divider_inner divider_line2">
+<i class="fa-newspaper"></i>	</div>
+</div>
+<div class="kc-elm kc-css-368710 kc_row kc_row_inner"><div class="kc-elm kc-css-702235 small-12 columns small-12"><div class="kc_wrapper kc-col-inner-container">
+<div class="kc-elm kc-css-227754 kc-blog-posts kc-blog-posts-3 kc-blog-grid kc_blog_masonry kc-image-align-both">
+<div class="post-grid grid-4">
+<div class="kc-list-item-3">
+<a href="https://hiu.vn/tin-tuc/le-tot-nghiep-dai-hoc-dot-1-nam-2025-khang-dinh-su-no-luc-va-thanh-cong-cua-cac-tan-cu-nhan/" class="entry-thumb-link">
+<div class="entry-thumb-wrapper">
+<img src="../../../../uploads/2025/03/thumnail-le-tot-nghiep.jpg"
+alt="Lễ Tốt Nghiệp Đại Học Đợt 1 Năm 2025: Khẳng Định Sự Nỗ Lực và Thành Công Của Các Tân Cử Nhân"/>
+<div class="entry-thumb-overlay"></div>
+</div>
+</a>
+<div class="content">
+<h2 class="post-title-alt"><a
+href="https://hiu.vn/tin-tuc/le-tot-nghiep-dai-hoc-dot-1-nam-2025-khang-dinh-su-no-luc-va-thanh-cong-cua-cac-tan-cu-nhan/">Lễ Tốt Nghiệp Đại Học Đợt 1 Năm 2025: Khẳng Định Sự Nỗ Lực và Thành Công Của Các Tân Cử Nhân</a>
+</h2>
+<div class="entry-meta">
+<span class="entry-cats"><a href="https://hiu.vn/category/tin-tuc/" rel="category tag">Tin tức</a></span>
+</div>
+<div class="entry-excerpt">
+<p>Ngày 22/3, HIU tổ chức Lễ Tốt Nghiệp đợt 1 năm 2025, đánh dấu một cột mốc quan trọng trong&hellip;</p>
+</div>
+</div>
+</div>
+</div>
+<div class="post-grid grid-4">
+<div class="kc-list-item-3">
+<a href="https://hiu.vn/tuyen-sinh/hiu-thuc-day-tich-hop-cac-chuong-trinh-ve-robot-ai-va-iot-vao-chuong-trinh-hoc/" class="entry-thumb-link">
+<div class="entry-thumb-wrapper">
+<img src="../../../../uploads/2025/03/dai-hoc-quoc-te-hong-bang-sinh-vien-hiu-nen.jpg"
+alt="HIU thúc đẩy tích hợp các chương trình về Robot, AI và IoT vào chương trình giảng dạy chính quy"/>
+<div class="entry-thumb-overlay"></div>
+</div>
+</a>
+<div class="content">
+<h2 class="post-title-alt"><a
+href="https://hiu.vn/tuyen-sinh/hiu-thuc-day-tich-hop-cac-chuong-trinh-ve-robot-ai-va-iot-vao-chuong-trinh-hoc/">HIU thúc đẩy tích hợp các chương trình về Robot, AI và IoT vào chương trình giảng dạy chính quy</a>
+</h2>
+<div class="entry-meta">
+<span class="entry-cats"><a href="https://hiu.vn/category/tin-tuc/" rel="category tag">Tin tức</a>, <a href="https://hiu.vn/category/tuyen-sinh/" rel="category tag">Tuyển Sinh</a></span>
+</div>
+<div class="entry-excerpt">
+<p>Tại sự kiện diễn ra vào ngày 23/3/2025, một trong những dấu ấn và tạo nhiều tương tác nhất chính&hellip;</p>
+</div>
+</div>
+</div>
+</div>
+<div class="post-grid grid-4">
+<div class="kc-list-item-3">
+<a href="https://hiu.vn/tin-tuc/le-cong-nhan-tot-nghiep-va-trao-bang-tien-si-thac-si-chuyen-khoa-cap-i-cua-hiu/" class="entry-thumb-link">
+<div class="entry-thumb-wrapper">
+<img src="../../../../uploads/2025/03/thumnail-TN-SDH.jpg"
+alt="Lễ Công Nhận Tốt Nghiệp và Trao Bằng Tiến Sĩ, Thạc Sĩ, Chuyên Khoa Cấp I của HIU"/>
+<div class="entry-thumb-overlay"></div>
+</div>
+</a>
+<div class="content">
+<h2 class="post-title-alt"><a
+href="https://hiu.vn/tin-tuc/le-cong-nhan-tot-nghiep-va-trao-bang-tien-si-thac-si-chuyen-khoa-cap-i-cua-hiu/">Lễ Công Nhận Tốt Nghiệp và Trao Bằng Tiến Sĩ, Thạc Sĩ, Chuyên Khoa Cấp I của HIU</a>
+</h2>
+<div class="entry-meta">
+<span class="entry-cats"><a href="https://hiu.vn/category/tin-tuc/" rel="category tag">Tin tức</a></span>
+</div>
+<div class="entry-excerpt">
+<p>Sáng ngày 22/3, Trường Đại học Quốc tế Hồng Bàng (HIU) tổ chức lễ công nhận tốt nghiệp cho hơn&hellip;</p>
+</div>
+</div>
+</div>
+</div>
+<div class="post-grid grid-4">
+<div class="kc-list-item-3">
+<a href="https://hiu.vn/tin-tuc/bung-no-sang-tao-chuoi-ngay-hoi-khoi-nghiep-lon-nhat-tai-hiu/" class="entry-thumb-link">
+<div class="entry-thumb-wrapper">
+<img src="../../../../uploads/2025/03/thumnail-23.3.jpg"
+alt="Bùng nổ sáng tạo chuỗi ngày hội khởi nghiệp lớn nhất tại HIU"/>
+<div class="entry-thumb-overlay"></div>
+</div>
+</a>
+<div class="content">
+<h2 class="post-title-alt"><a
+href="https://hiu.vn/tin-tuc/bung-no-sang-tao-chuoi-ngay-hoi-khoi-nghiep-lon-nhat-tai-hiu/">Bùng nổ sáng tạo chuỗi ngày hội khởi nghiệp lớn nhất tại HIU</a>
+</h2>
+<div class="entry-meta">
+<span class="entry-cats"><a href="https://hiu.vn/category/tin-tuc/" rel="category tag">Tin tức</a></span>
+</div>
+<div class="entry-excerpt">
+<p>Trường Đại học Quốc tế Hồng Bàng (HIU) đã cùng Sở Giáo dục &amp; Đào tạo (GD&amp;ĐT) TP.HCM chính thức&hellip;</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></div></div></div></div></div></div></div><div id="home-page__tuyen-sinh" class="kc-elm kc-css-891679 kc-animated kc-animate-eff-fadeInUp kc-row-container module"><div class="wc-row"><div class="kc-wrap-columns"><div class="kc-elm kc-css-901016 small-12 columns small-12"><div class="kc-col-container">
+<div class="kc-elm kc-css-752177 kc-title-wrap ">
+<h2 class="kc_title"><a href="https://hiu.vn/category/tuyen-sinh/" class="kc_title_link" title="" target="">Trải nghiệm sinh viên</a></h2>
+</div>
+<div class="kc-elm kc-css-118333 divider_line">
+<div class="divider_inner divider_line2">
+<i class="et-megaphone"></i>	</div>
+</div>
+<div class="kc-elm kc-css-513630 kc_row kc_row_inner"><div class="kc-elm kc-css-410547 small-12 columns small-12"><div class="kc_wrapper kc-col-inner-container">
+<div class="kc-elm kc-css-718280 kc-blog-posts kc-blog-posts-3 kc-blog-grid kc_blog_masonry kc-image-align-both">
+<div class="post-grid grid-4">
+<div class="kc-list-item-3">
+<a href="https://hiu.vn/hiu-student-center/hiu-to-chuc-trao-qua-tet-cho-sinh-vien-xuan-at-ty-2025/" class="entry-thumb-link">
+<div class="entry-thumb-wrapper">
+<img src="../../../../uploads/2025/01/23.jpg"
+alt="HIU trao quà Tết cho sinh viên xuân Ất Tỵ 2025"/>
+<div class="entry-thumb-overlay"></div>
+</div>
+</a>
+<div class="content">
+<h2 class="post-title-alt"><a
+href="https://hiu.vn/hiu-student-center/hiu-to-chuc-trao-qua-tet-cho-sinh-vien-xuan-at-ty-2025/">HIU trao quà Tết cho sinh viên xuân Ất Tỵ 2025</a>
+</h2>
+<div class="entry-excerpt">
+<p>Trong không khí hân hoan chào đón năm mới 2025, sáng 31/12/2024, trường Đại học Quốc tế Hồng Bàng đã&hellip;</p>
+</div>
+</div>
+</div>
+</div>
+<div class="post-grid grid-4">
+<div class="kc-list-item-3">
+<a href="https://hiu.vn/hiu-student-center/nhom-nhac-nhat-ban-psychic-fever-bieu-dien-tai-truong-dai-hoc-quoc-te-hong-bang/" class="entry-thumb-link">
+<div class="entry-thumb-wrapper">
+<img src="../../../../uploads/2024/12/HIU-a.jpg"
+alt="Nhóm nhạc Nhật Bản Psychic Fever biểu diễn tại trường Đại học Quốc tế Hồng Bàng"/>
+<div class="entry-thumb-overlay"></div>
+</div>
+</a>
+<div class="content">
+<h2 class="post-title-alt"><a
+href="https://hiu.vn/hiu-student-center/nhom-nhac-nhat-ban-psychic-fever-bieu-dien-tai-truong-dai-hoc-quoc-te-hong-bang/">Nhóm nhạc Nhật Bản Psychic Fever biểu diễn tại trường Đại học Quốc tế Hồng Bàng</a>
+</h2>
+<div class="entry-excerpt">
+<p>Nhận lời mời của Khoa Ngôn ngữ và Văn hóa Quốc tế HIU, ngày 12/12/2024 vừa qua, nhóm nhạc quốc&hellip;</p>
+</div>
+</div>
+</div>
+</div>
+<div class="post-grid grid-4">
+<div class="kc-list-item-3">
+<a href="https://hiu.vn/hiu-student-center/hiu-to-chuc-vinh-danh-va-trao-giai-cho-cac-van-dong-vien-hiu-games-2024/" class="entry-thumb-link">
+<div class="entry-thumb-wrapper">
+<img src="../../../../uploads/2024/12/DSC07061.jpg"
+alt="HIU tổ chức vinh danh và trao giải cho các vận động viên HIU Games 2024"/>
+<div class="entry-thumb-overlay"></div>
+</div>
+</a>
+<div class="content">
+<h2 class="post-title-alt"><a
+href="https://hiu.vn/hiu-student-center/hiu-to-chuc-vinh-danh-va-trao-giai-cho-cac-van-dong-vien-hiu-games-2024/">HIU tổ chức vinh danh và trao giải cho các vận động viên HIU Games 2024</a>
+</h2>
+<div class="entry-excerpt">
+<p>Trải qua gần 1 tháng với những trận đấu đầy kịch tính, công bằng và fair play, Ban tổ chức&hellip;</p>
+</div>
+</div>
+</div>
+</div>
+<div class="post-grid grid-4">
+<div class="kc-list-item-3">
+<a href="https://hiu.vn/hiu-student-center/hiu-to-chuc-thanh-cong-ngay-hoi-trien-lam-va-tuyen-dung-career-fair-2024/" class="entry-thumb-link">
+<div class="entry-thumb-wrapper">
+<img src="https://hiu.vn/wp-content/uploads/2024/12/Frame-ảnh-hiu.jpg"
+alt="HIU tổ chức thành công Ngày hội triển lãm và tuyển dụng Career Fair 2024"/>
+<div class="entry-thumb-overlay"></div>
+</div>
+</a>
+<div class="content">
+<h2 class="post-title-alt"><a
+href="https://hiu.vn/hiu-student-center/hiu-to-chuc-thanh-cong-ngay-hoi-trien-lam-va-tuyen-dung-career-fair-2024/">HIU tổ chức thành công Ngày hội triển lãm và tuyển dụng Career Fair 2024</a>
+</h2>
+<div class="entry-excerpt">
+<p>Với mong muốn tạo cầu nối để sinh viên Nhà trường có cơ hội gặp gỡ, giao lưu và tìm&hellip;</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></div></div>
+<div class="kc-elm kc-css-998232 kc-pro-button kc-button-1">
+<a href="https://hiu.vn/category/tuyen-sinh/" target="_blank">
+<span class="creative_icon creative_icon_left"> <i class="et-megaphone"></i>  </span><span class="creative_title">Xem thêm</span>	</a>
+</div>
+</div></div></div></div></div><div class="kc-elm kc-css-463929 kc-row-container module"><div class="wc-row row"><div class="kc-wrap-columns"><div class="kc-elm kc-css-649570 small-12 columns small-12"><div class="kc-col-container"><div class="kc-elm kc-css-689719 kc_shortcode kc_single_image">
+<a  href="https://hiu.vn/tham-quan-online-hiu/" title="" target="_self">
+<img src="../../../../uploads/2023/11/banner_900x150.png" class="" alt="" />    </a>
+</div>
+</div></div></div></div></div><div class="kc-elm kc-css-305590 kc-row-container module"><div class="wc-row"><div class="kc-wrap-columns"><div class="kc-elm kc-css-944415 small-12 columns small-12"><div class="kc-col-container">
+<div class="kc-elm kc-css-506497 kc-title-wrap ">
+<h2 class="kc_title">Khối ngành Đào tạo</h2>
+</div>
+<div class="kc-elm kc-css-331175 divider_line">
+<div class="divider_inner divider_line2">
+<i class="fa-graduation-cap"></i>	</div>
+</div>
+</div></div></div></div></div><div class="kc-elm kc-css-367315 kc-row-container module"><div class="wc-row row"><div class="kc-wrap-columns"><div class="kc-elm kc-css-960631 small-12 columns small-12 wrap-colum1-custom"><div class="kc-col-container">
+<div class="kc-elm kc-css-414738 kc-title-wrap ">
+<h3 class="kc_title">Khối Sức khỏe</h3>
+</div>
+<div class="kc-elm kc-css-183050 kc_text_block"><p>
+<a href="https://hiu.vn/gioi-thieu-nganh-y-khoa/" target="_blank" rel="noopener">💢</a><a href="https://hiu.vn/gioi-thieu-nganh-y-khoa/" target="_blank" rel="noopener"> Y khoa</a></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding-left: 40px;">
+</div><div class="kc-elm kc-css-976509 kc_text_block"></p>
+<p><a href="https://hiu.vn/gioi-thieu/cac-don-vi/khoa/khoa-rang-ham-mat/" target="_blank" rel="noopener">💢</a><a href="https://hiu.vn/gioi-thieu-nganh-y-hoc-co-truyen/" target="_blank" rel="noopener"> Y học cổ truyền</a></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding-left: 40px;">
+</div><div class="kc-elm kc-css-252491 kc_text_block"></p>
+<p><a href="https://hiu.vn/gioi-thieu-nganh-y-te-cong-cong/" target="_blank" rel="noopener">💢 Y tế công cộng</a></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding-left: 40px;">
+</div><div class="kc-elm kc-css-795259 kc_text_block"></p>
+<p><a href="https://hiu.vn/gioi-thieu-nganh-rang-ham-mat/" target="_blank" rel="noopener">💢 Răng Hàm Mặt</a></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding-left: 40px;">
+</div><div class="kc-elm kc-css-980380 kc_text_block"></p>
+<p><a href="https://hiu.vn/gioi-thieu-nganh-duoc-hoc/" target="_blank" rel="noopener">💢 Dược học</a></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding-left: 40px;">
+</div><div class="kc-elm kc-css-741427 kc_text_block"></p>
+<p><a href="https://hiu.vn/gioi-thieu-nganh-dieu-duong/" target="_blank" rel="noopener">💢 Điều dưỡng</a></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding-left: 40px;">
+</div><div class="kc-elm kc-css-279878 kc_text_block"></p>
+<p><a href="https://hiu.vn/gioi-thieu-nganh-ho-sinh/" target="_blank" rel="noopener">💢 Hộ sinh</a></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding-left: 40px;">
+</div><div class="kc-elm kc-css-798037 kc_text_block"></p>
+<p><a href="https://hiu.vn/gioi-thieu-nganh-dinh-duong/" target="_blank" rel="noopener">💢 Dinh dưỡng</a></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding-left: 40px;">
+</div><div class="kc-elm kc-css-206971 kc_text_block"></p>
+<p><a href="https://hiu.vn/gioi-thieu-nganh-ky-thuat-phuc-hoi-chuc-nang/" target="_blank" rel="noopener">💢 Kỹ thuật Phục hồi chức năng</a></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding-left: 40px;">
+</div><div class="kc-elm kc-css-149381 kc_text_block"></p>
+<p><a href="https://hiu.vn/gioi-thieu-nganh-ky-thuat-phuc-xet-nghiem-y-hoc/" target="_blank" rel="noopener">💢 Kỹ thuật Xét nghiệm y học</a></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding-left: 40px;">
+</div><div class="kc-elm kc-css-783206 kc_text_block"><p><a href="https://hiu.vn/dinh-huong-tuong-lai/nganh-ky-thuat-hinh-anh-y-hoc-tai-hiu-hanh-trang-cho-the-he-ky-thuat-vien-y-te-tuong-lai/" target="_blank" rel="noopener">💢 Kỹ thuật hình ảnh y học</a></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding-left: 40px;">
+</div></div></div><div class="kc-elm kc-css-454515 small-12 columns small-12 wrap-colum2-custom"><div class="kc-col-container">
+<div class="kc-elm kc-css-403059 kc-title-wrap ">
+<h3 class="kc_title">Khối Kinh tế - Quản trị</h3>
+</div>
+<div class="kc-elm kc-css-327469 kc_text_block"></p>
+<p><a href="https://hiu.vn/gioi-thieu-nganh-digital-marketing/" target="_blank" rel="noopener">💢 Digital Marketing</a></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding-left: 40px;">
+</div><div class="kc-elm kc-css-719133 kc_text_block"></p>
+<p><a href="https://hiu.vn/gioi-thieu-nganh-thuong-mai-dien-tu/" target="_blank" rel="noopener">💢 Thương mại điện tử</a></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding-left: 40px;">
+</div><div class="kc-elm kc-css-146152 kc_text_block"></p>
+<p><a href="https://hiu.vn/gioi-thieu-nganh-quan-tri-kinh-doanh/" target="_blank" rel="noopener">💢 Quản trị kinh doanh</a></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding-left: 40px;">
+</div><div class="kc-elm kc-css-999327 kc_text_block"></p>
+<p><a href="https://hiu.vn/gioi-thieu-nganh-quan-tri-su-kien/" target="_blank" rel="noopener">💢 Quản trị sự kiện</a></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding-left: 40px;">
+</div><div class="kc-elm kc-css-729906 kc_text_block"></p>
+<p><a href="https://hiu.vn/gioi-thieu-nganh-quan-tri-khach-san/" target="_blank" rel="noopener">💢 Quản trị khách sạn</a></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding-left: 40px;">
+</div><div class="kc-elm kc-css-319213 kc_text_block"></p>
+<p><a href="https://hiu.vn/gioi-thieu-nganh-quan-tri-dich-vu-du-lich-va-lu-hanh/" target="_blank" rel="noopener">💢 Quản trị dịch vụ du lịch và lữ hành</a></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding-left: 40px;">
+</div><div class="kc-elm kc-css-569023 kc_text_block"></p>
+<p><a href="https://hiu.vn/gioi-thieu-nganh-tai-chinh-ngan-hang/" target="_blank" rel="noopener">💢 Tài chính ngân hàng</a></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding-left: 40px;">
+</div><div class="kc-elm kc-css-543860 kc_text_block"></p>
+<p><a href="https://hiu.vn/gioi-thieu-nganh-ke-toan/" target="_blank" rel="noopener">💢 Kế toán</a></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding-left: 40px;">
+</div><div class="kc-elm kc-css-134694 kc_text_block"></p>
+<p><a href="https://hiu.vn/gioi-thieu-nganh-luat/" target="_blank" rel="noopener">💢 Luật</a></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding-left: 40px;">
+</div><div class="kc-elm kc-css-114553 kc_text_block"></p>
+<p><a href="https://hiu.vn/gioi-thieu-nganh-luat-kinh-te/" target="_blank" rel="noopener">💢 Luật kinh tế</a></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding-left: 40px;">
+</div><div class="kc-elm kc-css-12241 kc_text_block"><p><a href="https://hiu.vn/dinh-huong-tuong-lai/nganh-kinh-doanh-quoc-te-tai-hiu-mo-cua-co-hoi-cho-tuong-lai-su-nghiep-toan-cau/" target="_blank" rel="noopener">💢 Công nghệ tài chính</a></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding-left: 40px;">
+</div><div class="kc-elm kc-css-883983 kc_text_block"><p><a href="https://hiu.vn/dinh-huong-tuong-lai/nganh-kinh-doanh-quoc-te-tai-hiu-mo-cua-co-hoi-cho-tuong-lai-su-nghiep-toan-cau/" target="_blank" rel="noopener">💢 K</a><a href="https://hiu.vn/gioi-thieu-nganh-kinh-doanh-quoc-te/">inh doanh quốc tế</a></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding-left: 40px;">
+</div></div></div><div class="kc-elm kc-css-967751 small-12 columns small-12 wrap-colum3-custom"><div class="kc-col-container">
+<div class="kc-elm kc-css-772972 kc-title-wrap ">
+<h3 class="kc_title">Khối Ngôn ngữ và 
+Văn hóa Quốc tế</h3>
+</div>
+<div class="kc-elm kc-css-782481 kc_text_block"></p>
+<p><a href="https://hiu.vn/gioi-thieu-nganh-ngon-ngu-anh/">💢 Ngôn ngữ Anh</a></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding-left: 40px;">
+</div><div class="kc-elm kc-css-793393 kc_text_block"></p>
+<p><a href="https://hiu.vn/gioi-thieu-nganh-ngon-ngu-nhat/" target="_blank" rel="noopener">💢 Ngôn ngữ Nhật</a></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding-left: 40px;">
+</div><div class="kc-elm kc-css-762484 kc_text_block"></p>
+<p><a href="https://hiu.vn/gioi-thieu-nganh-ngon-ngu-trung-quoc/" target="_blank" rel="noopener">💢 Ngôn ngữ Trung Quốc</a></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding-left: 40px;">
+</div><div class="kc-elm kc-css-882308 kc_text_block"></p>
+<p><a href="https://hiu.vn/gioi-thieu-nganh-ngon-ngu-han-quoc/" target="_blank" rel="noopener">💢 Ngôn ngữ Hàn Quốc</a></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding-left: 40px;">
+</div>
+<div class="kc-elm kc-css-939644 kc-title-wrap ">
+<h3 class="kc_title">Khối Khoa học xã hội</h3>
+</div>
+<div class="kc-elm kc-css-714489 kc_text_block"></p>
+<p><a href="https://hiu.vn/gioi-thieu-nganh-truyen-thong-da-phuong-tien/" target="_blank" rel="noopener">💢 Truyền thông đa phương tiện</a></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding-left: 40px;">
+</div><div class="kc-elm kc-css-626915 kc_text_block"></p>
+<p><a href="https://hiu.vn/gioi-thieu-nganh-quan-he-cong-chung/">💢 Quan hệ công chúng</a></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding-left: 40px;">
+</div><div class="kc-elm kc-css-230465 kc_text_block"></p>
+<p><a href="https://hiu.vn/gioi-thieu-nganh-quan-he-quoc-te/" target="_blank" rel="noopener">💢 Quan hệ quốc tế</a></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding-left: 40px;">
+</div><div class="kc-elm kc-css-856561 kc_text_block"></p>
+<p><a href="https://hiu.vn/gioi-thieu-nganh-tam-ly-hoc/" target="_blank" rel="noopener">💢 Tâm lý học</a></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding-left: 40px;">
+</div><div class="kc-elm kc-css-757607 kc_text_block"></p>
+<p><a href="https://hiu.vn/gioi-thieu-nganh-viet-nam-hoc/" target="_blank" rel="noopener">💢 Việt Nam học</a></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding-left: 40px;">
+</div></div></div><div class="kc-elm kc-css-450794 small-12 columns small-12 wrap-colum4-custom"><div class="kc-col-container">
+<div class="kc-elm kc-css-498205 kc-title-wrap ">
+<h3 class="kc_title">Khối Công nghệ Kỹ thuật</h3>
+</div>
+<div class="kc-elm kc-css-147878 kc_text_block"></p>
+<p><a href="https://hiu.vn/gioi-thieu-nganh-cong-nghe-thong-tin/" target="_blank" rel="noopener">💢 Công nghệ thông tin</a></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding-left: 40px;">
+</div><div class="kc-elm kc-css-160245 kc_text_block"></p>
+<p><a href="https://hiu.vn/gioi-thieu-nganh-logistics-va-quan-ly-chuoi-cung-ung/" target="_blank" rel="noopener">💢 Logictics và quản lý chuỗi cung ứng</a></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding-left: 40px;">
+</div><div class="kc-elm kc-css-620802 kc_text_block"></p>
+<p><a href="https://hiu.vn/gioi-thieu-nganh-thiet-ke-do-hoa/" target="_blank" rel="noopener">💢 Thiết kế đồ họa</a></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding-left: 40px;">
+</div><div class="kc-elm kc-css-471229 kc_text_block"></p>
+<p><a href="https://hiu.vn/gioi-thieu-nganh-kien-truc/" target="_blank" rel="noopener">💢 Kiến trúc</a></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding-left: 40px;">
+</div><div class="kc-elm kc-css-543116 kc_text_block"><p><a href="https://hiu.vn/dinh-huong-tuong-lai/ket-noi-y-hoc-va-cong-nghe-kham-pha-nganh-ky-thuat-y-sinh-tai-hiu/" target="_blank" rel="noopener">💢 Kỹ thuật Y sinh  </a></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding-left: 40px;">
+</div><div class="kc-elm kc-css-614100 kc_text_block"><p><a href="https://hiu.vn/dinh-huong-tuong-lai/don-dau-xu-the-voi-nganh-ky-thuat-co-dien-tu-tai-hiu-noi-ung-dung-gap-go-sang-tao/" target="_blank" rel="noopener">💢 Kỹ thuật cơ điện tử</a></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding-left: 40px;">
+</div><div class="kc-elm kc-css-135080 kc_text_block"><p><a href="https://hiu.vn/dinh-huong-tuong-lai/nganh-cong-nghe-sinh-hoc-tai-hiu-chia-khoa-mo-ra-canh-cua-khoa-hoc-va-cong-nghe-tuong-lai/" target="_blank" rel="noopener">💢 Công nghệ sinh học</a></p>
+</div>
+<div class="kc-elm kc-css-306253 kc-title-wrap ">
+<h3 class="kc_title">Khối Giáo dục</h3>
+</div>
+<div class="kc-elm kc-css-218354 kc_text_block"></p>
+<p><a href="https://hiu.vn/gioi-thieu-nganh-quan-ly-giao-duc/" target="_blank" rel="noopener">💢 Quản lý giáo dục</a></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding-left: 40px;">
+</div><div class="kc-elm kc-css-511445 kc_text_block"><p><a href="https://hiu.vn/gioi-thieu-nganh-quan-ly-giao-duc/" target="_blank" rel="noopener">💢 Giáo dục tiểu học</a></p>
+</div><div class="kc-elm kc-css-639815 kc_text_block"><p><a href="https://hiu.vn/gioi-thieu-nganh-quan-ly-giao-duc/" target="_blank" rel="noopener">💢 Giáo dục mầm non</a></p>
+</div></div></div></div></div></div><div class="kc-elm kc-css-695785 kc-row-container module"><div class="wc-row row"><div class="kc-wrap-columns"><div class="kc-elm kc-css-67535 small-12 columns small-12"><div class="kc-col-container"><div class="kc-elm kc-css-107382 kc_text_block"></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding-left: 40px;">
+</div></div></div></div></div></div><div class="kc-elm kc-css-363986 kc-row-container module"><div class="wc-row row"><div class="kc-wrap-columns"><div class="kc-elm kc-css-270491 small-12 columns small-12"><div class="kc-col-container"><div class="kc-elm kc-css-66587 kc_text_block"></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding-left: 40px;">
+</div></div></div></div></div></div><div class="kc-elm kc-css-359867 kc-row-container module"><div class="wc-row row"><div class="kc-wrap-columns"><div class="kc-elm kc-css-328596 small-12 columns small-12"><div class="kc-col-container"><div class="kc-elm kc-css-223862 kc_text_block"></p>
+</div></div></div></div></div></div>    </div><!-- post Ends here -->
+<!-- Content Area Ends -->
+	 
+<!-- Footer -->
+<div class="footer">
+<div class="footerTop">
+<div class="row">
+<div class="large-3 medium-6 small-12 columns">
+<div id="media_image-3" class="footer-widget"><a href="owl.video.play.png"><img width="175" height="44" src="../../../../uploads/2020/02/Logo-HBU-trang-300x76.png" class="image wp-image-1789  attachment-175x44 size-175x44" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="../../../../uploads/2020/02/Logo-HBU-trang-300x76.png 300w, ../../../../uploads/2020/02/Logo-HBU-trang-1024x258.png 1024w, ../../../../uploads/2020/02/Logo-HBU-trang-768x194.png 768w, ../../../../uploads/2020/02/Logo-HBU-trang-1536x387.png 1536w, ../../../../uploads/2020/02/Logo-HBU-trang-2048x516.png 2048w, ../../../../uploads/2020/02/Logo-HBU-trang-600x151.png 600w" sizes="(max-width: 175px) 100vw, 175px" /></a></div><div id="nav_menu-2" class="footer-widget"><h2>Giới thiệu</h2><div class="tx-div"></div><div class="menu-menu-link-f1-container"><ul id="menu-menu-link-f1" class="menu"><li id="menu-item-1036" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1036"><a href="https://hiu.vn/gioi-thieu/ve-chung-toi/">Về chúng tôi</a></li>
+<li id="menu-item-50992" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50992"><a href="https://hiu.vn/gioi-thieu/cac-don-vi/hoi-dong-truong/">Hội đồng trường</a></li>
+<li id="menu-item-50991" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50991"><a href="https://hiu.vn/gioi-thieu/cac-don-vi/hdkhdt/">Hội đồng khoa học đào tạo</a></li>
+<li id="menu-item-50993" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50993"><a href="https://hiu.vn/ban-giam-hieu/">Ban Giám Hiệu</a></li>
+<li id="menu-item-34682" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34682"><a href="https://hiu.vn/gioi-thieu/tam-nhin-su-mang/">Tầm nhìn, sứ mạng</a></li>
+<li id="menu-item-50890" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50890"><a href="https://hiu.vn/gioi-thieu/gia-tri-cot-loi/">Giá trị cốt lõi</a></li>
+<li id="menu-item-50891" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50891"><a href="https://hiu.vn/gioi-thieu/triet-ly-giao-duc/">Triết lý giáo dục</a></li>
+<li id="menu-item-2099" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2099"><a href="https://hiu.vn/gioi-thieu/tai-sao-chon-hiu/">Tại sao chọn HIU?</a></li>
+<li id="menu-item-2113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2113"><a href="https://hiu.vn/gioi-thieu/cac-don-vi/">Cơ cấu tổ chức</a></li>
+<li id="menu-item-34681" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34681"><a href="https://hiu.vn/gioi-thieu/ba-cong-khai/">Ba công khai</a></li>
+<li id="menu-item-2115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2115"><a href="https://hiu.vn/gioi-thieu/ban-tin/">Bản tin</a></li>
+</ul></div></div><div id="nav_menu-28" class="footer-widget"><h2>Khoa</h2><div class="tx-div"></div><div class="menu-khoa-container"><ul id="menu-khoa" class="menu"><li id="menu-item-9580" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9580"><a href="https://hiu.vn/khoa/khoa-y/">Khoa Y</a></li>
+<li id="menu-item-25749" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25749"><a href="https://hiu.vn/khoa/khoa-rang-ham-mat/">Khoa Răng Hàm Mặt</a></li>
+<li id="menu-item-9582" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9582"><a href="https://hiu.vn/khoa/khoa-duoc/">Khoa Dược</a></li>
+<li id="menu-item-9579" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9579"><a href="https://hiu.vn/khoa/khoa-dieu-duong-ho-sinh/">Khoa Điều dưỡng – Hộ sinh</a></li>
+<li id="menu-item-9585" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9585"><a href="https://hiu.vn/khoa/khoa-xet-nghiem-y-hoc/">Khoa Xét nghiệm Y học</a></li>
+<li id="menu-item-9581" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9581"><a href="https://hiu.vn/khoa/ky-thuat-phuc-hoi-chuc-nang/">Khoa Kỹ thuật Phục hồi chức năng</a></li>
+<li id="menu-item-7806" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7806"><a href="https://hiu.vn/khoa/ktqt/">Khoa Kinh tế – Quản trị</a></li>
+<li id="menu-item-7807" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7807"><a href="https://hiu.vn/khoa/khoa-cong-nghe-ky-thuat/">Khoa Công nghệ – Kỹ thuật</a></li>
+<li id="menu-item-37040" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37040"><a href="https://hiu.vn/khoa/khoa-khoa-hoc-xa-hoi/">Khoa Khoa học Xã hội</a></li>
+<li id="menu-item-7805" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7805"><a href="https://hiu.vn/khoa/khoa-ngon-ngu-va-van-hoa-quoc-te/">Khoa Ngôn ngữ và văn hóa quốc tế</a></li>
+<li id="menu-item-48272" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48272"><a href="https://hiu.vn/khoa/bo-mon-giao-duc-the-chat/">Bộ môn Giáo dục thể chất</a></li>
+</ul></div></div>        </div><!-- Widget Ends /-->
+<div class="large-3 medium-6 small-12 columns">
+<div id="nav_menu-3" class="footer-widget"><h2>Học tập tại HIU</h2><div class="tx-div"></div><div class="menu-menu-link-f2-container"><ul id="menu-menu-link-f2" class="menu"><li id="menu-item-2713" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2713"><a href="https://hiu.vn/hoc-tap-tai-hiu/chuong-trinh-cu-nhan/">Chương trình Cử nhân</a></li>
+<li id="menu-item-3229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3229"><a href="https://hiu.vn/hoc-tap-tai-hiu/chuong-trinh-tieng-anh/">Chương trình tiếng Anh</a></li>
+<li id="menu-item-70665" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70665"><a href="https://hiu.vn/?page_id=5331">Chương trình Liên kết Quốc tế</a></li>
+<li id="menu-item-3230" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3230"><a href="https://hiu.vn/hoc-tap-tai-hiu/chuong-trinh-sau-dai-hoc/">Chương trình Sau đại học</a></li>
+</ul></div></div><div id="nav_menu-31" class="footer-widget"><h2>Phòng</h2><div class="tx-div"></div><div class="menu-phong-container"><ul id="menu-phong" class="menu"><li id="menu-item-20436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20436"><a href="https://hiu.vn/phong/phong-hanh-chinh-nhan-su/">Phòng Hành Chính – Nhân sự</a></li>
+<li id="menu-item-83594" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83594"><a href="https://hiu.vn/phong/phong-tai-chinh-ke-toan/">Phòng Tài chính Kế toán</a></li>
+<li id="menu-item-21296" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21296"><a href="https://hiu.vn/phong/pqldt/">Phòng Đào tạo Đại học</a></li>
+<li id="menu-item-63025" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63025"><a href="https://hiu.vn/phong/qlkh-tckh/">Phòng Quản lý Khoa học – Tạp chí Khoa học</a></li>
+<li id="menu-item-16350" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16350"><a href="https://hiu.vn/phong/phong-dam-bao-chat-luong/">Phòng Khảo thí – Đảm bảo chất lượng</a></li>
+<li id="menu-item-18881" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18881"><a href="https://hiu.vn/phong/phong-cong-nghe-thong-tin/">Phòng Công nghệ thông tin</a></li>
+<li id="menu-item-13353" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13353"><a href="https://hiu.vn/phong/phong-quan-ly-co-so-vat-chat/">Phòng Quản lý cơ sở vật chất</a></li>
+</ul></div></div><div id="nav_menu-27" class="footer-widget"><h2>Đảng &#8211; Đoàn thể</h2><div class="tx-div"></div><div class="menu-dang-doan-the-container"><ul id="menu-dang-doan-the" class="menu"><li id="menu-item-50940" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50940"><a href="https://hiu.vn/dang-doan-the/dang-bo/">Đảng bộ</a></li>
+<li id="menu-item-50939" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50939"><a href="https://hiu.vn/dang-doan-the/cong-doan-hiu/">Công Đoàn</a></li>
+<li id="menu-item-50963" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50963"><a href="https://hiu.vn/dang-doan-the/doan-thanh-nien/">Đoàn thanh niên – Hội sinh viên</a></li>
+</ul></div></div>        </div><!-- Widget Ends /-->
+<div class="large-3 medium-6 small-12 columns">
+<div id="nav_menu-4" class="footer-widget"><h2>Cuộc sống tại HIU</h2><div class="tx-div"></div><div class="menu-menu-link-f3-container"><ul id="menu-menu-link-f3" class="menu"><li id="menu-item-2556" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2556"><a href="https://hiu.vn/cuoc-song-tai-hiu/trai-nghiem-sinh-vien/">Trải nghiệm sinh viên</a></li>
+<li id="menu-item-83457" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-83457"><a href="https://job.hiu.vn/">Việc làm Sinh viên</a></li>
+<li id="menu-item-2547" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2547"><a href="https://hiu.vn/cuoc-song-tai-hiu/cau-lac-bo-sinh-vien/">Câu lạc bộ Sinh viên</a></li>
+<li id="menu-item-29999" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29999"><a href="https://hiu.vn/cuoc-song-tai-hiu/y-te-suc-khoe/">Y tế &#8211; Sức khoẻ</a></li>
+<li id="menu-item-4471" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4471"><a href="https://hiu.vn/cuoc-song-tai-hiu/cuu-sinh-vien/">Cựu Sinh viên</a></li>
+<li id="menu-item-50989" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50989"><a href="https://hiu.vn/gioi-thieu/co-so-hoc-tap/">Cơ sở học tập</a></li>
+<li id="menu-item-2555" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2555"><a href="https://hiu.vn/cuoc-song-tai-hiu/dich-vu-food-court/">Dịch vụ Food Court</a></li>
+</ul></div></div><div id="nav_menu-14" class="footer-widget"><h2>Trung tâm</h2><div class="tx-div"></div><div class="menu-trung-tam-container"><ul id="menu-trung-tam" class="menu"><li id="menu-item-63024" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63024"><a href="https://hiu.vn/trung-tam/phong-truyen-thong-tuyen-sinh/">Trung tâm Tuyển sinh và Truyền thông</a></li>
+<li id="menu-item-29988" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29988"><a href="https://hiu.vn/trung-tam/trai-nghiem-viec-lam/">Trung tâm Trải nghiệm – Việc làm sinh viên</a></li>
+<li id="menu-item-30620" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30620"><a href="https://hiu.vn/trung-tam/thu-vien/">Trung tâm Thông tin – Thư viện</a></li>
+</ul></div></div><div id="nav_menu-29" class="footer-widget"><h2>Viện</h2><div class="tx-div"></div><div class="menu-vien-container"><ul id="menu-vien" class="menu"><li id="menu-item-63279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63279"><a href="https://hiu.vn/vien/vien-dao-tao-sau-dai-hoc-dao-tao-lien-tuc/">Viện Đào tạo Sau đại học – Đào tạo liên tục</a></li>
+<li id="menu-item-74544" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74544"><a href="https://hiu.vn/vien/vien-dao-tao-va-hop-tac-quoc-te/">Viện Đào tạo và Hợp tác quốc tế (IIEE)</a></li>
+<li id="menu-item-45043" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45043"><a href="https://hiu.vn/vien/vien-khoa-hoc-giao-duc/">Viện Khoa học giáo dục &#038; Đào tạo giáo viên</a></li>
+</ul></div></div>        </div><!-- Widget Ends /-->
+<div class="large-3 medium-6 small-12 columns">
+<div id="nav_menu-6" class="footer-widget"><h2>Tuyển sinh</h2><div class="tx-div"></div><div class="menu-menu-link-f5-container"><ul id="menu-menu-link-f5" class="menu"><li id="menu-item-7509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7509"><a href="https://hiu.vn/tuyen-sinh/cac-moc-thoi-gian-tuyen-sinh-2023/">Các mốc thời gian</a></li>
+<li id="menu-item-56004" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-56004"><a href="https://tuyensinh.hiu.vn/">Đại học</a></li>
+<li id="menu-item-3222" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3222"><a href="https://hiu.vn/tuyen-sinh/tuyen-sinh-sau-dai-hoc/">Sau đại học</a></li>
+<li id="menu-item-3930" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3930"><a href="https://hiu.vn/tuyen-sinh/tuyen-sinh-chung-chi-ngan-han/">Chứng chỉ ngắn hạn</a></li>
+<li id="menu-item-50895" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50895"><a href="https://hiu.vn/hoc-bong/">Học bổng 2025</a></li>
+<li id="menu-item-50896" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50896"><a href="https://hiu.vn/hoc-phi/">Học phí</a></li>
+<li id="menu-item-3331" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3331"><a href="http://xettuyen.hiu.vn/">Cổng tuyển sinh</a></li>
+<li id="menu-item-50897" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50897"><a href="https://student.hiu.vn/nhap-hoc-truc-tuyen.html">Nhập học Online</a></li>
+</ul></div></div><div id="nav_menu-10" class="footer-widget"><h2>Truy cập nhanh</h2><div class="tx-div"></div><div class="menu-menu-link-f6-container"><ul id="menu-menu-link-f6" class="menu"><li id="menu-item-50987" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50987"><a href="http://thuvien.hiu.vn/">Thư viện số</a></li>
+<li id="menu-item-75911" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75911"><a href="https://hiu.vn/cong-dao-tao-truc-tuyen/">Cổng đào tạo trực tuyến</a></li>
+<li id="menu-item-50984" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50984"><a href="https://student.hiu.vn/">Cổng thông tin sinh viên</a></li>
+<li id="menu-item-62397" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62397"><a href="https://lecturer.hiu.vn/">Cổng thông tin giảng viên</a></li>
+<li id="menu-item-67067" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-67067"><a href="https://student.hiu.vn/tra-cuu-van-bang.html">Tra cứu văn bằng</a></li>
+<li id="menu-item-20496" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20496"><a href="https://hiu.vn/tham-quan-online-hiu/">Tham quan HIU</a></li>
+<li id="menu-item-4079" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4079"><a href="https://www.youtube.com/channel/UC7JnqM5xyC69FGfE3cdVzFw">Truyền hình HIU</a></li>
+<li id="menu-item-4080" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4080"><a href="https://www.facebook.com/hiu.vn/">Trang Facebook HIU</a></li>
+<li id="menu-item-56000" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-56000"><a href="https://eportfolio.hiu.vn/">E-Portfolio HIU</a></li>
+<li id="menu-item-68600" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-68600"><a href="https://tapchikhoahochongbang.vn/js/">Tạp chí khoa học HIU</a></li>
+<li id="menu-item-4077" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4077"><a href="https://hiu.vn/so-do-trang-web/">Sơ đồ trang web</a></li>
+<li id="menu-item-35788-en" class="lang-item lang-item-95 lang-item-en lang-item-first menu-item menu-item-type-custom menu-item-object-custom menu-item-35788-en"><a href="https://hiu.vn/en/" hreflang="en-US" lang="en-US"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAmVBMVEViZsViZMJiYrf9gnL8eWrlYkjgYkjZYkj8/PujwPybvPz4+PetraBEgfo+fvo3efkydfkqcvj8Y2T8UlL8Q0P8MzP9k4Hz8/Lu7u4DdPj9/VrKysI9fPoDc/EAZ7z7IiLHYkjp6ekCcOTk5OIASbfY/v21takAJrT5Dg6sYkjc3Nn94t2RkYD+y8KeYkjs/v7l5fz0dF22YkjWvcOLAAAAgElEQVR4AR2KNULFQBgGZ5J13KGGKvc/Cw1uPe62eb9+Jr1EUBFHSgxxjP2Eca6AfUSfVlUfBvm1Ui1bqafctqMndNkXpb01h5TLx4b6TIXgwOCHfjv+/Pz+5vPRw7txGWT2h6yO0/GaYltIp5PT1dEpLNPL/SdWjYjAAZtvRPgHJX4Xio+DSrkAAAAASUVORK5CYII=" alt="English" width="16" height="11" style="width: 16px; height: 11px;" /><span style="margin-left:0.3em;">English</span></a></li>
+</ul></div></div><div id="search-2" class="footer-widget"><form role="search" method="get" class="search_form" action="owl.video.play.png">
+<input type="text" class="search_field" placeholder="Search &hellip;" value="" name="s" title="Search for:" /><button type="submit" class="button primary"><i class="fa fa-search"></i></button></form></div>        </div><!-- Widget Ends /-->
+</div><!-- Row Ends /-->
+</div><!-- footerTop Ends here.. -->
+<div class="footerbottom">
+<div class="row">
+<div class="medium-6 small-12 columns left-side">
+<div class="copyrightinfo"><div id="footer-vi" class="footer-vi">
+<span style="color: #ffffff"><strong>Trường Đại Học Quốc Tế Hồng Bàng <br />
+</strong><strong>Trụ sở: 215 Điện Biên Phủ, P.15, Bình Thạnh, TP.HCM</strong>
+<br />
+<strong>Cơ sở 2: 36/70 Nguyễn Gia Trí, P.25, Bình Thạnh, TP.HCM</strong>
+</span> <br />
+<span style="color: #ffffff">Điện thoại: 028.7308.3456</span><br />
+<span style="color: #ffffff">Hotline Tuyển sinh: 0931.205.126 - 0964.239.172</span><br />
+<span style="color: #ffffff">Email: info@hiu.vn</span>
+</div>
+<div id="footer-en" class="footer-en">
+<span style="color: #ffffff"><strong>Hong Bang International University <br />
+</strong><strong>Main campus: 215 Dien Bien Phu str, ward 15, Binh Thanh dist, Ho Chi Minh city</strong>
+<br />
+<strong>Second campus: 36/70 Nguyen Gia Tri str,  ward 25, Bình Thạnh dist, Ho Chi Minh city</strong>
+</span> <br />
+<span style="color: #ffffff">Telephone: 028.7308.3456</span><br />
+<span style="color: #ffffff">Hotline Admission: 0931.205.126 - 0964.239.172</span><br />
+<span style="color: #ffffff">Email: info@hiu.vn</span>
+</div></div>        </div><!-- left side /-->
+<div class="medium-6 small-12 columns hide-for-small-only right-side">
+<ul class="menu">
+<li class="first-social social"><a href="https://www.facebook.com/hiu.vn/" target=_blank><i class="fa fa-facebook"></i></a></li><li class="social"><a href="https://www.youtube.com/channel/UC7JnqM5xyC69FGfE3cdVzFw" target=_blank><i class="fa fa-youtube"></i></a></li></ul>    
+</div><!-- Right Side /-->
+</div><!-- Row /-->
+</div><!-- footer Bottom /-->
+</div>
+<!-- Footer Ends here /-->
+</div>
+<!-- Main Container /-->
+<div id="content"></div>
+<a href="owl.video.play.png#top" id="top" class="animated fadeInUp start-anim"><i class="fa fa-angle-up"></i></a>    <!-- The Modal -->
+<!-- <div id="modaltuyensinh" class="modal modal-tuyensinh"> -->
+<!-- Modal content -->
+<!-- <div class="modal-content"> -->
+<!-- <span class="close">&times;</span> -->
+<!-- <a href="https://hiu.vn/xet-tuyen-dai-hoc/"><img src="https://hiu.vn/wp-content/uploads/2024/08/popup.jpg"></a> -->
+<!-- </div> -->
+<!-- </div> -->
+<script>
+var modal = document.getElementById("modaltuyensinh");
+var span = document.getElementsByClassName("close")[0];
+span.onclick = function() {
+modal.style.display = "none";
+}
+document.addEventListener("DOMContentLoaded", (event) => {
+console.log("DOM fully loaded and parsed");
+modal.style.display = 'block';
+});
+window.onclick = function(event) {
+if (event.target == modal) {
+modal.style.display = "none";
+}
+}
+</script>
+<div class="ladi-popupx-inline" data-ladipage-id="649e394965e53600122bfccd" data-align="center" data-scrolling="no"></div>
+<div class="row footer-bottom-copyright">
+<hr/>
+<div class="medium-6 small-12 columns left-side">
+Copyright © 2021 Đại Học Quốc tế Hồng Bàng - Hong Bang International University
+</div>
+<div class="medium-3 small-12 columns right-side">
+<a href="https://www.facebook.com/hiu.vn/"><i class="fab fa-facebook"></i></a>
+<a href="https://www.youtube.com/channel/UC7JnqM5xyC69FGfE3cdVzFw"><i class="fab fa-youtube"></i></a>
+</div>
+</div>
+<script>
+window.oscWidget.init({
+token: "5f311ab177098e65484715e7",
+});
+</script>
+<!-- ShiftNav Main Toggle -->
+<div id="shiftnav-toggle-main" class="shiftnav-toggle-main-align-center shiftnav-toggle-style-burger_only shiftnav-togglebar-gap-auto shiftnav-togglebar-transparent shiftnav-toggle-edge-left shiftnav-toggle-icon-x"   ><button id="shiftnav-toggle-main-button" class="shiftnav-toggle shiftnav-toggle-shiftnav-main shiftnav-toggle-burger" tabindex="1" data-shiftnav-target="shiftnav-main" aria-label="Toggle Menu"><i class="fa fa-bars"></i></button>	</div>	
+<!-- /#shiftnav-toggle-main -->
+<!-- ShiftNav #shiftnav-main -->
+<div class="shiftnav shiftnav-nojs shiftnav-shiftnav-main shiftnav-left-edge shiftnav-skin-standard-dark shiftnav-transition-standard" id="shiftnav-main" data-shiftnav-id="shiftnav-main">
+<div class="shiftnav-inner">
+<nav class="shiftnav-nav"><ul id="menu-vn-main-menu-mobile" class="shiftnav-menu shiftnav-targets-default shiftnav-targets-text-default shiftnav-targets-icon-default shiftnav-indent-subs"><li id="menu-item-74405-en" class="lang-item lang-item-95 lang-item-en lang-item-first menu-item menu-item-type-custom menu-item-object-custom menu-item-74405-en shiftnav-depth-0"><a class="shiftnav-target"  href="https://hiu.vn/en/" hreflang="en-US" lang="en-US"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAmVBMVEViZsViZMJiYrf9gnL8eWrlYkjgYkjZYkj8/PujwPybvPz4+PetraBEgfo+fvo3efkydfkqcvj8Y2T8UlL8Q0P8MzP9k4Hz8/Lu7u4DdPj9/VrKysI9fPoDc/EAZ7z7IiLHYkjp6ekCcOTk5OIASbfY/v21takAJrT5Dg6sYkjc3Nn94t2RkYD+y8KeYkjs/v7l5fz0dF22YkjWvcOLAAAAgElEQVR4AR2KNULFQBgGZ5J13KGGKvc/Cw1uPe62eb9+Jr1EUBFHSgxxjP2Eca6AfUSfVlUfBvm1Ui1bqafctqMndNkXpb01h5TLx4b6TIXgwOCHfjv+/Pz+5vPRw7txGWT2h6yO0/GaYltIp5PT1dEpLNPL/SdWjYjAAZtvRPgHJX4Xio+DSrkAAAAASUVORK5CYII=" alt="English" width="16" height="11" style="width: 16px; height: 11px;" /></a></li><li id="menu-item-74328" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-623 current_page_item menu-item-74328 shiftnav-depth-0"><a class="shiftnav-target"  href="owl.video.play.png">Trang chủ</a></li><li id="menu-item-74329" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-74329 shiftnav-sub-always shiftnav-depth-0"><a class="shiftnav-target"  href="https://hiu.vn/gioi-thieu/">Giới thiệu</a>
+<ul class="sub-menu sub-menu-1">
+<li id="menu-item-74330" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-74330 shiftnav-sub-always shiftnav-depth-1"><a class="shiftnav-target"  href="https://hiu.vn/gioi-thieu/ve-chung-toi/">Chúng tôi là ai</a>
+<ul class="sub-menu sub-menu-2">
+<li id="menu-item-74331" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74331 shiftnav-depth-2"><a class="shiftnav-target"  href="https://hiu.vn/gioi-thieu/tam-nhin-su-mang/">Tầm nhìn , sứ mạng</a></li><li id="menu-item-74332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74332 shiftnav-depth-2"><a class="shiftnav-target"  href="https://hiu.vn/gioi-thieu/gia-tri-cot-loi/">Giá trị cốt lõi</a></li><li id="menu-item-74333" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74333 shiftnav-depth-2"><a class="shiftnav-target"  href="https://hiu.vn/gioi-thieu/triet-ly-giao-duc/">Triết lý giáo dục</a></li><li id="menu-item-74334" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74334 shiftnav-depth-2"><a class="shiftnav-target"  href="https://hiu.vn/gioi-thieu/tai-sao-chon-hiu/">Tại sao chọn HIU?</a></li><li id="menu-item-74717" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74717 shiftnav-depth-2"><a class="shiftnav-target"  href="https://hiu.vn/gioi-thieu/cac-chuong-trinh-dao-tao-dat-kiem-dinh-chat-luong/">Kiểm định chất lượng</a></li>	</ul>
+</li><li id="menu-item-74336" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-74336 shiftnav-sub-always shiftnav-depth-1"><a class="shiftnav-target"  href="https://hiu.vn/gioi-thieu/cac-don-vi/">Cơ cấu tổ chức</a>
+<ul class="sub-menu sub-menu-2">
+<li id="menu-item-74337" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74337 shiftnav-depth-2"><a class="shiftnav-target"  href="https://hiu.vn/gioi-thieu/cac-don-vi/hoi-dong-truong/">Hội đồng trường</a></li><li id="menu-item-74338" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74338 shiftnav-depth-2"><a class="shiftnav-target"  href="https://hiu.vn/gioi-thieu/cac-don-vi/hdkhdt/">Hội đồng khoa học đào tạo</a></li><li id="menu-item-74339" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74339 shiftnav-depth-2"><a class="shiftnav-target"  href="https://hiu.vn/ban-giam-hieu/">Ban Giám Hiệu</a></li><li id="menu-item-74340" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74340 shiftnav-depth-2"><a class="shiftnav-target"  href="https://hiu.vn/gioi-thieu/cac-don-vi/khoa/">Khoa</a></li><li id="menu-item-74341" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74341 shiftnav-depth-2"><a class="shiftnav-target"  href="https://hiu.vn/gioi-thieu/cac-don-vi/phong/">Phòng/Trung Tâm/Viện</a></li><li id="menu-item-74342" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74342 shiftnav-depth-2"><a class="shiftnav-target"  href="https://hiu.vn/gioi-thieu/cac-don-vi/dang-doan-the/">Đảng &#8211; Đoàn thể</a></li>	</ul>
+</li><li id="menu-item-74343" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-74343 shiftnav-sub-always shiftnav-depth-1"><a class="shiftnav-target"  href="owl.video.play.png#">Công khai</a>
+<ul class="sub-menu sub-menu-2">
+<li id="menu-item-74344" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74344 shiftnav-depth-2"><a class="shiftnav-target"  href="https://hiu.vn/gioi-thieu/ba-cong-khai/">Ba công khai</a></li><li id="menu-item-74345" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74345 shiftnav-depth-2"><a class="shiftnav-target"  href="https://hiu.vn/gioi-thieu/mo-nganh/">Đề án mở ngành</a></li><li id="menu-item-74346" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74346 shiftnav-depth-2"><a class="shiftnav-target"  href="https://hiu.vn/gioi-thieu/bao-cao-bo/">Bộ Y Tế</a></li>	</ul>
+</li><li id="menu-item-74347" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74347 shiftnav-depth-1"><a class="shiftnav-target"  href="https://hiu.vn/gioi-thieu/ban-tin/">Bản tin</a></li></ul>
+</li><li id="menu-item-74351" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-74351 shiftnav-sub-always shiftnav-depth-0"><a class="shiftnav-target"  href="https://hiu.vn/tuyen-sinh-dai-hoc/">Tuyển sinh</a>
+<ul class="sub-menu sub-menu-1">
+<li id="menu-item-74352" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-74352 shiftnav-sub-always shiftnav-depth-1"><a class="shiftnav-target"  href="owl.video.play.png#">Đại học</a>
+<ul class="sub-menu sub-menu-2">
+<li id="menu-item-74353" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74353 shiftnav-depth-2"><a class="shiftnav-target"  href="https://hiu.vn/xet-tuyen-dai-hoc/">Tuyển sinh 2025</a></li><li id="menu-item-74354" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74354 shiftnav-depth-2"><a class="shiftnav-target"  href="https://xettuyen.hiu.vn/">Đăng ký xét tuyển</a></li><li id="menu-item-74355" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74355 shiftnav-depth-2"><a class="shiftnav-target"  href="https://online.hiu.vn/tra-cuu-thong-tin-trung-tuyen.html">Tra cứu kết quả</a></li><li id="menu-item-74356" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74356 shiftnav-depth-2"><a class="shiftnav-target"  href="https://student.hiu.vn/nhap-hoc-truc-tuyen.html">Nhập học Online</a></li><li id="menu-item-74357" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74357 shiftnav-depth-2"><a class="shiftnav-target"  href="https://hiu.vn/tuyen-sinh/tuyen-sinh-lien-thong-dai-hoc/">Liên thông Đại học</a></li>	</ul>
+</li><li id="menu-item-74358" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74358 shiftnav-depth-1"><a class="shiftnav-target"  href="https://hiu.vn/tuyen-sinh/tuyen-sinh-sau-dai-hoc/">Sau đại học</a></li><li id="menu-item-74359" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74359 shiftnav-depth-1"><a class="shiftnav-target"  href="https://hiu.vn/gioi-thieu/cac-don-vi/vien/vien-dao-tao-sau-dai-hoc-dao-tao-lien-tuc/dao-tao-lien-tuc/">Đào tạo liên tục</a></li><li id="menu-item-74360" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74360 shiftnav-depth-1"><a class="shiftnav-target"  href="https://hiu.vn/tuyen-sinh/de-an-tuyen-sinh/">Đề án tuyển sinh</a></li><li id="menu-item-74361" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74361 shiftnav-depth-1"><a class="shiftnav-target"  href="https://hiu.vn/category/dinh-huong-tuong-lai/">Định hướng nghề nghiệp</a></li><li id="menu-item-74362" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74362 shiftnav-depth-1"><a class="shiftnav-target"  href="https://hiu.vn/hoc-tap-tai-hiu/hoc-bong/">Học bổng 2025</a></li><li id="menu-item-74363" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74363 shiftnav-depth-1"><a class="shiftnav-target"  href="https://hiu.vn/hoc-tap-tai-hiu/hoc-phi/">Học phí</a></li></ul>
+</li><li id="menu-item-74364" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-74364 shiftnav-sub-always shiftnav-depth-0"><a class="shiftnav-target"  href="https://hiu.vn/hoc-tap-tai-hiu/">Đào tạo</a>
+<ul class="sub-menu sub-menu-1">
+<li id="menu-item-74365" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-74365 shiftnav-sub-always shiftnav-depth-1"><a class="shiftnav-target"  href="owl.video.play.png#">Chương trình Đại học</a>
+<ul class="sub-menu sub-menu-2">
+<li id="menu-item-74366" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74366 shiftnav-depth-2"><a class="shiftnav-target"  href="https://hiu.vn/hoc-tap-tai-hiu/chuong-trinh-cu-nhan/">Chương trình Tiếng Việt</a></li><li id="menu-item-74367" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74367 shiftnav-depth-2"><a class="shiftnav-target"  href="https://hiu.vn/hoc-tap-tai-hiu/chuong-trinh-tieng-anh/">Chương trình Tiếng Anh</a></li><li id="menu-item-74368" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74368 shiftnav-depth-2"><a class="shiftnav-target"  href="https://hiu.vn/gioi-thieu/cac-don-vi/vien/vien-dao-tao-va-hop-tac-quoc-te/">Chương trình Quốc tế</a></li><li id="menu-item-74369" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74369 shiftnav-depth-2"><a class="shiftnav-target"  href="https://hiu.vn/hoc-tap-tai-hiu/chuong-trinh-cu-nhan/chuong-trinh-song-bang/">Chương trình song bằng</a></li>	</ul>
+</li><li id="menu-item-74370" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74370 shiftnav-depth-1"><a class="shiftnav-target"  href="https://hiu.vn/hoc-tap-tai-hiu/chuong-trinh-sau-dai-hoc/">Chương trình Sau ĐH</a></li></ul>
+</li><li id="menu-item-74371" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-74371 shiftnav-sub-always shiftnav-depth-0"><a class="shiftnav-target"  href="owl.video.play.png#">Khoa &#8211; Viện</a>
+<ul class="sub-menu sub-menu-1">
+<li id="menu-item-74372" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74372 shiftnav-depth-1"><a class="shiftnav-target"  href="https://hiu.vn/gioi-thieu/cac-don-vi/khoa/khoa-y/">Khoa Y</a></li><li id="menu-item-74378" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74378 shiftnav-depth-1"><a class="shiftnav-target"  href="https://hiu.vn/gioi-thieu/cac-don-vi/khoa/khoa-rang-ham-mat/">Khoa Răng Hàm Mặt</a></li><li id="menu-item-74373" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74373 shiftnav-depth-1"><a class="shiftnav-target"  href="https://hiu.vn/gioi-thieu/cac-don-vi/khoa/khoa-duoc/">Khoa Dược</a></li><li id="menu-item-74379" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74379 shiftnav-depth-1"><a class="shiftnav-target"  href="https://hiu.vn/gioi-thieu/cac-don-vi/khoa/khoa-dieu-duong-ho-sinh/">Khoa Điều dưỡng &#8211; Hộ sinh</a></li><li id="menu-item-74374" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74374 shiftnav-depth-1"><a class="shiftnav-target"  href="https://hiu.vn/gioi-thieu/cac-don-vi/khoa/khoa-xet-nghiem-y-hoc/">Khoa Xét nghiệm y học</a></li><li id="menu-item-74380" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74380 shiftnav-depth-1"><a class="shiftnav-target"  href="https://hiu.vn/gioi-thieu/cac-don-vi/khoa/ky-thuat-phuc-hoi-chuc-nang/">Khoa Phục hồi chức năng</a></li><li id="menu-item-74375" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74375 shiftnav-depth-1"><a class="shiftnav-target"  href="https://hiu.vn/gioi-thieu/cac-don-vi/khoa/ktqt/">Khoa Kinh tế &#8211; Quản trị</a></li><li id="menu-item-74381" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74381 shiftnav-depth-1"><a class="shiftnav-target"  href="https://hiu.vn/gioi-thieu/cac-don-vi/khoa/khoa-ngon-ngu-va-van-hoa-quoc-te/">Khoa NN &#038; VHQT</a></li><li id="menu-item-74376" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74376 shiftnav-depth-1"><a class="shiftnav-target"  href="https://hiu.vn/gioi-thieu/cac-don-vi/khoa/khoa-khoa-hoc-xa-hoi/">Khoa Khoa học xã hội</a></li><li id="menu-item-74382" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74382 shiftnav-depth-1"><a class="shiftnav-target"  href="https://hiu.vn/gioi-thieu/cac-don-vi/khoa/khoa-cong-nghe-ky-thuat/">Khoa Kỹ thuật Công nghệ</a></li><li id="menu-item-74377" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74377 shiftnav-depth-1"><a class="shiftnav-target"  href="https://hiu.vn/gioi-thieu/cac-don-vi/khoa/bo-mon-giao-duc-the-chat/">Bộ môn Giáo dục thể chất</a></li><li id="menu-item-77371" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77371 shiftnav-depth-1"><a class="shiftnav-target"  href="https://hiu.vn/vien/vien-khoa-hoc-giao-duc/">Viện Khoa học giáo dục &#038; Đào tạo giáo viên</a></li><li id="menu-item-74781" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74781 shiftnav-depth-1"><a class="shiftnav-target"  href="https://hiu.vn/vien/vien-dao-tao-sau-dai-hoc-dao-tao-lien-tuc/">Viện Đào tạo Sau đại học – Đào tạo liên tục</a></li><li id="menu-item-74542" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74542 shiftnav-depth-1"><a class="shiftnav-target"  href="https://hiu.vn/vien/vien-dao-tao-va-hop-tac-quoc-te/">Viện Đào tạo và Hợp tác quốc tế (IIEE)</a></li></ul>
+</li><li id="menu-item-74383" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-74383 shiftnav-sub-always shiftnav-depth-0"><a class="shiftnav-target"  href="https://hiu.vn/cuoc-song-tai-hiu/">Cuộc sống tại HIU</a>
+<ul class="sub-menu sub-menu-1">
+<li id="menu-item-74384" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-74384 shiftnav-sub-always shiftnav-depth-1"><a class="shiftnav-target"  href="owl.video.play.png#">Sinh viên</a>
+<ul class="sub-menu sub-menu-2">
+<li id="menu-item-74385" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74385 shiftnav-depth-2"><a class="shiftnav-target"  href="https://hiu.vn/cuoc-song-tai-hiu/cong-tac-sinh-vien/">Công tác sinh viên</a></li><li id="menu-item-74386" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74386 shiftnav-depth-2"><a class="shiftnav-target"  href="https://hiu.vn/cuoc-song-tai-hiu/trai-nghiem-sinh-vien/">Trải nghiệm sinh viên</a></li><li id="menu-item-74387" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74387 shiftnav-depth-2"><a class="shiftnav-target"  href="https://hiu.vn/en/life-at-hiu/internationalstudent/">Sinh viên Quốc tế</a></li><li id="menu-item-74388" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74388 shiftnav-depth-2"><a class="shiftnav-target"  href="http://job.hiu.vn/">Việc làm sinh viên</a></li><li id="menu-item-74389" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74389 shiftnav-depth-2"><a class="shiftnav-target"  href="https://hiu.vn/cuoc-song-tai-hiu/cau-lac-bo-sinh-vien/">Câu lạc bộ Sinh viên</a></li><li id="menu-item-74390" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74390 shiftnav-depth-2"><a class="shiftnav-target"  href="https://hiu.vn/cuoc-song-tai-hiu/y-te-suc-khoe/">Y tế sức khoẻ</a></li>	</ul>
+</li><li id="menu-item-74391" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-74391 shiftnav-sub-always shiftnav-depth-1"><a class="shiftnav-target"  href="owl.video.play.png#">Tiện ích</a>
+<ul class="sub-menu sub-menu-2">
+<li id="menu-item-74392" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74392 shiftnav-depth-2"><a class="shiftnav-target"  href="https://hiu.vn/gioi-thieu/cac-khoa-va-phong/trung-tam/thu-vien/">Thư viện</a></li><li id="menu-item-74393" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74393 shiftnav-depth-2"><a class="shiftnav-target"  href="https://elearning.hiu.vn/">E-Learning</a></li><li id="menu-item-74394" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74394 shiftnav-depth-2"><a class="shiftnav-target"  href="https://student.hiu.vn/">Cổng thông tin</a></li><li id="menu-item-74395" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74395 shiftnav-depth-2"><a class="shiftnav-target"  href="https://student.hiu.vn/tra-cuu-van-bang.html">Tra cứu văn bằng</a></li>	</ul>
+</li><li id="menu-item-74396" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74396 shiftnav-depth-1"><a class="shiftnav-target"  href="https://hiu.vn/cuoc-song-tai-hiu/cuu-sinh-vien/">Cựu sinh viên</a></li></ul>
+</li><li id="menu-item-74397" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-74397 shiftnav-sub-always shiftnav-depth-0"><a class="shiftnav-target"  href="owl.video.play.png#">Bản tin</a>
+<ul class="sub-menu sub-menu-1">
+<li id="menu-item-74398" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74398 shiftnav-depth-1"><a class="shiftnav-target"  href="https://hiu.vn/category/tin-tuc/">Hoạt động trường</a></li><li id="menu-item-74399" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74399 shiftnav-depth-1"><a class="shiftnav-target"  href="https://sukien.hiu.vn/">Góc ảnh HIU</a></li><li id="menu-item-74400" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74400 shiftnav-depth-1"><a class="shiftnav-target"  href="https://hiu.vn/category/tuyen-sinh/">Tin tuyển sinh</a></li><li id="menu-item-74401" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74401 shiftnav-depth-1"><a class="shiftnav-target"  href="https://hiu.vn/cuoc-song-tai-hiu/hiu-dna-2/">HIU DNA</a></li><li id="menu-item-74402" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-74402 shiftnav-sub-always shiftnav-depth-1"><a class="shiftnav-target"  href="owl.video.play.png#">Tuyển dụng</a>
+<ul class="sub-menu sub-menu-2">
+<li id="menu-item-74403" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74403 shiftnav-depth-2"><a class="shiftnav-target"  href="https://tuyendung.nhg.vn/nghe-nghiep?search%5Bsubsidiary_id%5D=10">NHG</a></li><li id="menu-item-74404" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74404 shiftnav-depth-2"><a class="shiftnav-target"  href="https://hiu.vn/gioi-thieu/lam-viec-tai-hiu/">HIU</a></li>	</ul>
+</li></ul>
+</li></ul></nav>
+<button class="shiftnav-sr-close shiftnav-sr-only shiftnav-sr-only-focusable">
+&times; Close Panel		</button>
+</div><!-- /.shiftnav-inner -->
+</div><!-- /.shiftnav #shiftnav-main -->
+<script type='text/javascript'>window.onload = function () {
+document.getElementsByTagName("head")[0].setAttribute("prefix", "og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#");  
+}
+</script><link href="https://fonts.googleapis.com/css?family=Roboto:400" rel="stylesheet" property="stylesheet" media="all" type="text/css" >
+<div id="fb-root"></div>
+<script type="text/javascript">
+if(typeof revslider_showDoubleJqueryError === "undefined") {
+function revslider_showDoubleJqueryError(sliderID) {
+var err = "<div class='rs_error_message_box'>";
+err += "<div class='rs_error_message_oops'>Oops...</div>";
+err += "<div class='rs_error_message_content'>";
+err += "You have some jquery.js library include that comes after the Slider Revolution files js inclusion.<br>";
+err += "To fix this, you can:<br>&nbsp;&nbsp;&nbsp; 1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on";
+err += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jQuery.js inclusion and remove it";
+err += "</div>";
+err += "</div>";
+jQuery(sliderID).show().html(err);
+}
+}
+</script>
+<script type='text/javascript' src='../js/foundation.min.js@ver=1.0.0' id='foundation-js-js'></script>
+<script type='text/javascript' src='../js/owl.carousel.min.js@ver=1.0.0' id='owl-carousel-js-js'></script>
+<script type='text/javascript' src='../js/lightbox.min.js@ver=1.0.0' id='lightbox-js-js'></script>
+<script type='text/javascript' src='../js/webful.js@ver=1.0.0' id='wc-main-js-js'></script>
+<script type='text/javascript' src='../../../../plugins/super-socializer/js/front/combined.js@ver=7.13.46' id='the_champ_combined_script-js'></script>
+<script type='text/javascript' id='shiftnav-js-extra'>
+/* <![CDATA[ */
+var shiftnav_data = {"shift_body":"off","shift_body_wrapper":"","lock_body":"on","lock_body_x":"on","open_current":"on","collapse_accordions":"on","scroll_panel":"off","breakpoint":"768","v":"1.7.2","pro":"0","touch_off_close":"on","scroll_offset":"100","disable_transforms":"off","close_on_target_click":"off","scroll_top_boundary":"50","scroll_tolerance":"10","process_uber_segments":"on"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../../../../plugins/shiftnav-responsive-mobile-menu/assets/js/shiftnav.min.js@ver=1.7.2' id='shiftnav-js'></script>
+<script type='text/javascript' src='../../../../../wp-includes/js/hoverIntent.min.js@ver=1.8.1' id='hoverIntent-js'></script>
+<script type='text/javascript' id='megamenu-js-extra'>
+/* <![CDATA[ */
+var megamenu = {"timeout":"300","interval":"100"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../../../../plugins/megamenu/js/maxmegamenu.js@ver=3.2.4' id='megamenu-js'></script>
+<script type='text/javascript' src='../../../../plugins/kingcomposer/assets/frontend/js/kingcomposer.min.js@ver=2.9.6' id='kc-front-scripts-js'></script>
+<script type='text/javascript' src='https://www.youtube.com/iframe_api?ver=2.9.6' id='kc-youtube-api-js'></script>
+<script type='text/javascript' src='../../../../plugins/kingcomposer/assets/frontend/js/video.play.min.js@ver=2.9.6' id='kc-video-play-js'></script>
+<script type='text/javascript' src='../../../../../wp-includes/js/imagesloaded.min.js@ver=4.1.4' id='imagesloaded-js'></script>
+<script type='text/javascript' src='../../../../../wp-includes/js/masonry.min.js@ver=4.2.2' id='masonry-js'></script>
+<script type='text/javascript' src='../../../../../wp-includes/js/wp-embed.min.js@ver=5.7.6' id='wp-embed-js'></script>
+<script type='text/javascript' src='../../../../../wp-includes/js/comment-reply.min.js@ver=5.7.6' id='comment-reply-js'></script>
+<script type='text/javascript'>
+(function() {
+var expirationDate = new Date();
+expirationDate.setTime( expirationDate.getTime() + 31536000 * 1000 );
+document.cookie = "pll_language=vi; expires=" + expirationDate.toUTCString() + "; path=/; secure; SameSite=Lax";
+}());
+</script>
+</body>
+</html><!-- WP Fastest Cache file was created in 0.5255401134491 seconds, on 27-03-25 19:30:08 -->
