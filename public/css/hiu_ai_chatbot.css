@@ -1,16 +1,16 @@
 /* Fonts */
 @font-face {
     font-family: 'Raleway';
-    src: url('./public/fonts/Raleway/Raleway-VariableFont_wght.ttf');
+    src: url('https://tranphat1506.github.io/tro_ly_ao_HIU_AI_demo/public/fonts/Raleway/Raleway-VariableFont_wght.ttf');
 }
 @font-face {
     font-family: 'Raleway_Italic';
-    src: url('./public/fonts/Raleway/Raleway-Italic-VariableFont_wght.ttf');
+    src: url('https://tranphat1506.github.io/tro_ly_ao_HIU_AI_demo/public/fonts/Raleway/Raleway-Italic-VariableFont_wght.ttf');
 }
 
 @font-face {
     font-family: 'Arvo-Bold';
-    src: url('./public/fonts/Arvo/Arvo-Bold.ttf');
+    src: url('https://tranphat1506.github.io/tro_ly_ao_HIU_AI_demo/public/fonts/Arvo/Arvo-Bold.ttf');
 }
 
 :root {
