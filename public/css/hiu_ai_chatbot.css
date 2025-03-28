@@ -357,6 +357,7 @@
     align-items: center;
     height: 50px;
     gap: 1rem;
+    background-color: var(--white);
 }
 
 .bottom_container .button-func__container {
@@ -473,7 +474,7 @@
     display: flex;
 }
 .chat-history__container {
-    min-height: 300px;
+    height: 500px;
     max-height: 80vh;
     display: flex;
     flex-direction: column;
