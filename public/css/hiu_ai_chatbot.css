@@ -43,20 +43,32 @@
     --gradient-light-purple: linear-gradient(45deg, #a685c4, #c5a3e0, #e0c7ff);
 }
 
+.no-scroll {
+    overflow: hidden !important;
+    height: 100vh !important;
+    touch-action: none !important;
+}
+
 #hiu_chatbot_ai {
     width: 100%;
     float: left;
     margin: 2rem 0;
 }
 
-#hiu_chatbot_ai.full-screen-mode .chatbot__container {
-    position: fixed;
+#hiu_chatbot_ai.ios-fullscreen {
+    position: fixed !important;
     top: 0;
     left: 0;
     width: 100vw;
     height: 100vh;
-    z-index: 9999;
-    overflow: auto;
+    z-index: 9999999;
+    overflow: hidden !important;
+    box-shadow: none !important;
+}
+
+#hiu_chatbot_ai.full-screen-mode .chatbot__container {
+    width: 100vw;
+    height: 100vh;
     background-color: var(--white);
     max-width: none;
 }
