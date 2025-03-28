@@ -2273,7 +2273,8 @@ min-width: 400px;
                         <div class="chatbot__header">
                             <div class="header__container">
                                 <div class="hongbang__logo">
-                                    <img src="./public/images/Logo-HBU-trang-600x151.png" alt="Hong Bang International University Logo" />
+                                    <img class="logo--full" src="./public/images/Logo-HBU-trang-600x151.png" alt="Hong Bang International University Logo" />
+                                    <img class="logo--letter" src="./public/images/hiu_logo_white.png" alt="Hong Bang International University Logo White" />
                                 </div>
                                 <div class="chatbot__desc">
                                     <span>Trợ lý ảo tư vấn tuyển sinh</span>
@@ -2309,13 +2310,18 @@ min-width: 400px;
                                 <div class="bottom_container">
                                     <div class="chat_input__container">
                                         <div class="chat_input__input">
-                                            <input id="hiu-ai__chat-input" type="text" placeholder="Hãy hỏi trợ lý ảo HIU một câu đi nào..." />
+                                            <input id="hiu-ai__chat-input" autocomplete="" type="text" placeholder="Hãy hỏi trợ lý ảo HIU một câu đi nào..." />
                                         </div>
                                         <div class="chat_input__submit">
-                                            <button id="hiu-ai__chat-submit">
-                                                <img src="./public/images/sent-icon.png" alt="Gửi tin nhắn" />
+                                            <button title="Gửi câu hỏi" id="hiu-ai__chat-submit">
+                                                <img src="./public/images/sent-icon.png" alt="Gửi câu hỏi" />
                                             </button>
                                         </div>
+                                    </div>
+                                    <div class="button-func__container">
+                                        <button onclick="toggleFullScreenChatbotHIUAI()" title="Toàn màn hình" id="chatbot__fullscreen">
+                                            <img src="./public/images/fullscreen-icon.png" alt="Toàn màn hình" />
+                                        </button>
                                     </div>
                                 </div>
                             </div>

@@ -74,7 +74,7 @@ class QuestionGenerator {
             { title: 'Học ngành {major} tại HIU có gì đặc biệt?', subTitle: 'Trợ lý ảo sẽ bật mí những điểm nổi bật của ngành {major}.' },
         ];
         // this.templateColors = ['__blue', '__red', '__purple', '__orange', '__green', '__cyan', '__pink', '__yellow', ''];
-        this.templateColors = ['__blue'];
+        this.templateColors = [''];
     }
 
     generateRandomQuestions(majorsInstance, count) {
@@ -246,6 +246,38 @@ class ChatBotHIUAI {
     }
 }
 
+function toggleFullScreenChatbotHIUAI() {
+    let elem = document.getElementById('hiu_chatbot_ai');
+    let btnImg = document.querySelector('#chatbot__fullscreen img');
+
+    if (!document.fullscreenElement) {
+        elem.requestFullscreen().then(() => {
+            btnImg.src = './public/images/collapse-fullscreen-icon.png'; // Chuyển lại icon fullscreen
+            elem.classList.add('full-screen-mode'); // Thêm class khi vào fullscreen
+        });
+    } else {
+        document.exitFullscreen().then(() => {
+            btnImg.src = './public/images/fullscreen-icon.png';
+            elem.classList.remove('full-screen-mode'); // Xóa class khi thoát fullscreen
+            elem.scrollIntoView();
+        });
+    }
+}
+
+document.addEventListener('fullscreenchange', exitFullScreenHandler);
+document.addEventListener('webkitfullscreenchange', exitFullScreenHandler);
+document.addEventListener('mozfullscreenchange', exitFullScreenHandler);
+document.addEventListener('MSFullscreenChange', exitFullScreenHandler);
+
+function exitFullScreenHandler() {
+    let elem = document.getElementById('hiu_chatbot_ai');
+    if (!document.fullscreenElement && !document.webkitFullscreenElement && !document.mozFullScreenElement && !document.msFullscreenElement) {
+        let btnImg = document.querySelector('#chatbot__fullscreen img');
+        btnImg.src = './public/images/fullscreen-icon.png';
+        elem.scrollIntoView();
+    }
+}
+
 // Khởi tạo và sử dụng các class
 document.addEventListener('DOMContentLoaded', () => {
     const majors = new Majors();
@@ -273,12 +305,17 @@ document.addEventListener('DOMContentLoaded', () => {
         )
         .join('');
 
-    // Khởi tạo Swiper
     const swiper = new Swiper('.swiper', {
-        slidesPerView: 4,
+        slidesPerView: 'auto',
         spaceBetween: 20,
-        loop: true,
+        loop: false, // Kiểm tra xem có fix lỗi không
         autoplay: { delay: 5000 },
+        breakpoints: {
+            1024: { slidesPerView: 4, spaceBetween: 10 },
+            768: { slidesPerView: 3, spaceBetween: 10 },
+            480: { slidesPerView: 2, spaceBetween: 10 },
+            0: { slidesPerView: 1, spaceBetween: 100 },
+        },
     });
 
     // Sử dụng ChatBotHIUAI
