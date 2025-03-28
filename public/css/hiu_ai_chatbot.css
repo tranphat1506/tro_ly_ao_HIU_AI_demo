@@ -64,7 +64,7 @@
     z-index: 9999999;
     overflow: hidden !important;
     box-shadow: none !important;
-    margin: none !important;
+    margin: 0 !important;
 }
 
 #hiu_chatbot_ai.full-screen-mode .chatbot__container {
