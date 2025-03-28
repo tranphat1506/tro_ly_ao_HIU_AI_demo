@@ -209,7 +209,7 @@ class ChatBotHIUAI {
 
     addTypingMessage(message) {
         const messageClass = 'chat-history__message';
-        const senderHTML = `<div class="hiu-ai"><strong class="hiu">HIU</strong><strong class="ai">AI</strong></div>`;
+        const senderHTML = `<div class="hiu-ai"><strong class="hiu">HIU</strong> <strong class="ai">AI</strong></div>`;
 
         const messageElement = document.createElement('div');
         messageElement.className = messageClass;
