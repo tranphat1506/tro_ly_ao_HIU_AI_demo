@@ -78,7 +78,7 @@
 }
 
 .chatbot__header {
-    background: var(--gradient-purple);
+    background: var(--gradient-red);
     animation: gradientShift 8s infinite linear alternate;
     background-size: 400% 400%;
     box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -2px rgba(0, 0, 0, 0.1);
@@ -621,8 +621,8 @@
         font-size: 12px;
     }
 
-    .chat-history__message .message__logo .hiu,
-    .chat-history__message .message__logo .ai {
+    #chatbot .chat-history__message .message__logo .hiu,
+    #chatbot .chat-history__message .message__logo .ai {
         font-size: 1rem;
     }
 
