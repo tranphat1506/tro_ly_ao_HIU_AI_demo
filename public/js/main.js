@@ -250,20 +250,58 @@ function toggleFullScreenChatbotHIUAI() {
     let elem = document.getElementById('hiu_chatbot_ai');
     let btnImg = document.querySelector('#chatbot__fullscreen img');
 
-    if (!document.fullscreenElement) {
-        elem.requestFullscreen().then(() => {
-            btnImg.src = './public/images/collapse-fullscreen-icon.png'; // Chuyển lại icon fullscreen
-            elem.classList.add('full-screen-mode'); // Thêm class khi vào fullscreen
-        });
+    // Kiểm tra iOS
+    let isIOS = /iPhone|iPad|iPod/i.test(navigator.userAgent);
+    console.log(!document.fullscreenElement && !document.webkitFullscreenElement);
+
+    if (!document.fullscreenElement && !document.webkitFullscreenElement) {
+        if (isIOS) {
+            let video = document.createElement('video');
+            video.style.position = 'absolute';
+            video.style.opacity = '0';
+            video.style.pointerEvents = 'none';
+            video.style.width = '1px';
+            video.style.height = '1px';
+            document.body.appendChild(video);
+
+            video.onloadedmetadata = () => {
+                video
+                    .play()
+                    .then(() => {
+                        if (video.webkitEnterFullscreen) {
+                            video.webkitEnterFullscreen();
+                        }
+                    })
+                    .catch(() => {
+                        console.warn('Không thể phát video fullscreen trên iOS.');
+                    });
+            };
+            video.src = 'data:video/mp4;base64,AAAA'; // Video giả để tránh lỗi
+        } else {
+            elem.requestFullscreen().then(() => {
+                btnImg.src = './public/images/collapse-fullscreen-icon.png';
+                elem.classList.add('full-screen-mode');
+            });
+        }
     } else {
-        document.exitFullscreen().then(() => {
-            btnImg.src = './public/images/fullscreen-icon.png';
-            elem.classList.remove('full-screen-mode'); // Xóa class khi thoát fullscreen
-            elem.scrollIntoView();
-        });
+        x1;
+        if (document.exitFullscreen) {
+            document.exitFullscreen();
+        } else if (document.webkitExitFullscreen) {
+            document.webkitExitFullscreen();
+        } else if (document.mozCancelFullScreen) {
+            document.mozCancelFullScreen();
+        } else if (document.msExitFullscreen) {
+            document.msExitFullscreen();
+        }
+
+        btnImg.src = './public/images/fullscreen-icon.png';
+        elem.classList.remove('full-screen-mode');
+        elem.scrollIntoView();
     }
 }
 
+// Lắng nghe sự kiện thoát fullscreen
 document.addEventListener('fullscreenchange', exitFullScreenHandler);
 document.addEventListener('webkitfullscreenchange', exitFullScreenHandler);
 document.addEventListener('mozfullscreenchange', exitFullScreenHandler);
