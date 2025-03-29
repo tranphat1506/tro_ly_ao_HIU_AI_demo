@@ -17,13 +17,13 @@
     --white-red: #df1e25;
     --black-red: #b80f0b;
     --gray: #545454;
-    --semi-gray: #d9d9d9;
+    --semi-gray: #e0e0e0;
     --black: #010101;
     --semi-black: #222;
     --white: #fff;
     --dark-blue: #004e8e;
     --dark-purple: #2c003e;
-    --semi-gray-with-alpha: #d9d9d960;
+    --semi-gray-with-alpha: #e0e0e060;
 
     /* Gradient Colors */
     --gradient-purple: linear-gradient(45deg, #2c003e, #6a0dad, #9d00ff, #2c003e);
@@ -40,8 +40,14 @@
     --gradient-pink-purple: linear-gradient(45deg, #ff1493, #c71585, #b200a3, #ff1493);
     --gradient-teal-mystic: linear-gradient(45deg, #006666, #008b8b, #20b2aa, #006666);
     --gradient-gold: linear-gradient(45deg, #ffcc00, #ffdb4d, #ffae42, #ffcc00);
-    --gradient-gray: linear-gradient(45deg, #4a4a4a, #6e6e6e, #8c8c8c);
+    --gradient-gray: linear-gradient(45deg, #e0e0e0, #f3f3f3, #e0e0e0);
     --gradient-light-purple: linear-gradient(45deg, #a685c4, #c5a3e0, #e0c7ff);
+}
+
+.skeleton {
+    background: var(--gradient-gray);
+    background-size: 400% 100%;
+    animation: gradientShift 3s infinite linear;
 }
 
 .no-scroll {
@@ -404,6 +410,10 @@
     padding: 0 10px;
 }
 
+.chat_input__input input {
+    color: var(--black);
+}
+
 .chat_input__input input,
 .chat_input__input input:focus {
     outline: transparent;
@@ -522,7 +532,12 @@
     font-size: 1rem;
     color: var(--black);
     background-color: var(--semi-gray-with-alpha);
-    word-wrap: break-word;
+    white-space: pre-wrap; /* Giữ nguyên xuống dòng từ \n */
+    word-wrap: break-word; /* Đảm bảo từ dài không làm vỡ layout */
+}
+
+.message__message-content.typing {
+    padding: 1rem !important;
 }
 
 .chatbot__header .hongbang__logo .logo--letter {

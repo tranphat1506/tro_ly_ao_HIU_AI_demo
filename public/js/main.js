@@ -121,6 +121,8 @@ class Message {
 }
 
 class ChatBotHIUAI {
+    BE_URL = 'http://localhost';
+    ASK_ENDPOINT = '/api/chat';
     constructor(containerId, inputId, submitButtonId, chatbotId) {
         this.container = document.getElementById(containerId);
         this.input = document.getElementById(inputId);
@@ -149,14 +151,50 @@ class ChatBotHIUAI {
     }
 
     async fetchAnswer(question) {
-        return new Promise((resolve, reject) => {
-            setTimeout(() => {
-                if (Math.random() < 0.1) {
-                    reject('Lỗi kết nối, vui lòng thử lại.');
-                } else {
-                    resolve(this.getRandomAnswer());
+        return new Promise(async (resolve, reject) => {
+            const data = {
+                query: question,
+            };
+            try {
+                const response = await fetch(this.BE_URL + this.ASK_ENDPOINT, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify(data),
+                });
+
+                if (!response.ok)
+                    return reject({
+                        httpCode: response.status,
+                        status: 'error',
+                        message: `Gửi câu hỏi không thành công. ${response.status}`,
+                    });
+
+                const resData = await response.json();
+                if (resData.status === 'error' || data === null) {
+                    return reject({
+                        httpCode: response.status,
+                        status: 'error',
+                        message: resData.message,
+                    });
                 }
-            }, 1000);
+                return resolve({
+                    httpCode: response.status,
+                    status: resData.status,
+                    message: resData.message,
+                    data: {
+                        ask: resData.data.query,
+                        answer: resData.data.response,
+                    },
+                });
+            } catch (error) {
+                return reject({
+                    httpCode: 500,
+                    status: 'error',
+                    message: `Gửi câu hỏi không thành công.`,
+                });
+            }
         });
     }
 
@@ -174,13 +212,20 @@ class ChatBotHIUAI {
         this.addMessage(askMessage, 'Bạn');
         this.input.value = '';
 
+        this.showTypingIndicator();
+
         try {
-            const answer = await this.fetchAnswer(question);
+            const answer = (await this.fetchAnswer(question)).data.answer;
             const answerMessage = new AnswerMessage(answer);
-            this.addTypingMessage(answerMessage);
+            this.hideTypingIndicator();
+            // this.addTypingMessage(answerMessage);
+            this.addMessage(answerMessage, 'HIU-AI');
         } catch (error) {
-            const answerMessage = new AnswerMessage('', true, error);
-            this.addTypingMessage(answerMessage);
+            console.log(error);
+            const answerMessage = new AnswerMessage('', true, error.message);
+            this.hideTypingIndicator();
+            // this.addTypingMessage(answerMessage);
+            this.addMessage(answerMessage, 'HIU-AI');
         }
 
         this.isFetching = false;
@@ -188,9 +233,30 @@ class ChatBotHIUAI {
         this.input.disabled = false;
     }
 
+    showTypingIndicator() {
+        this.typingIndicator = document.createElement('div');
+        this.typingIndicator.className = 'chat-history__message';
+        this.typingIndicator.innerHTML = `
+            <div class="message__logo">
+                <div class="hiu-ai"><strong class="hiu">HIU</strong> <strong class="ai">AI</strong></div>
+                <div class="time-send">${new Date().toLocaleTimeString()}</div>
+            </div>
+            <div class="message__message-content typing skeleton"></div>
+        `;
+        this.container.appendChild(this.typingIndicator);
+        this.updateChatbotDisplay();
+    }
+
+    hideTypingIndicator() {
+        if (this.typingIndicator) {
+            this.typingIndicator.remove();
+            this.typingIndicator = null;
+        }
+    }
+
     addMessage(message, sender) {
         const messageClass = sender === 'HIU-AI' ? 'chat-history__message' : 'chat-history__message message--right';
-        const senderHTML = sender === 'HIU-AI' ? `<div class="hiu-ai"><strong class="hiu">HIU</strong><strong class="ai">AI</strong></div>` : `<span>Bạn</span>`;
+        const senderHTML = sender === 'HIU-AI' ? `<div class="hiu-ai"><strong class="hiu">HIU</strong> <strong class="ai">AI</strong></div>` : `<span>Bạn</span>`;
 
         const messageHTML = `
             <div class="${messageClass}">
@@ -220,22 +286,26 @@ class ChatBotHIUAI {
             </div>
             <div class="message__message-content"></div>
         `;
-        this.container.appendChild(messageElement);
 
+        this.container.appendChild(messageElement);
         this.typewriterEffect(messageElement.querySelector('.message__message-content'), message.content);
+        this.updateChatbotDisplay();
     }
 
     typewriterEffect(element, text) {
         let index = 0;
         const speed = 30;
 
-        function type() {
+        const type = () => {
             if (index < text.length) {
                 element.textContent += text.charAt(index);
                 index++;
-                setTimeout(type, speed);
+                setTimeout(() => {
+                    this.updateChatbotDisplay();
+                    type();
+                }, speed);
             }
-        }
+        };
         type();
     }
 
@@ -243,6 +313,7 @@ class ChatBotHIUAI {
         if (this.chatbotElement) {
             this.chatbotElement.setAttribute('data-display-welcome', this.container.children.length === 0 ? 'true' : 'false');
         }
+        this.container.scrollTop = this.container.scrollHeight;
     }
 }
 
