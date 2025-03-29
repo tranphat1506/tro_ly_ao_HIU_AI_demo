@@ -192,6 +192,7 @@
     position: relative;
     flex-direction: column;
     flex: 1;
+    max-height: calc(100vh - 100px - 50px);
 }
 
 .chat_container .example_question__container {
@@ -482,7 +483,6 @@
     display: flex;
 }
 .chat-history__container {
-    max-height: 80vh;
     display: flex;
     flex-direction: column;
     overflow-y: auto;
