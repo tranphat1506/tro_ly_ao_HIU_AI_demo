@@ -192,7 +192,7 @@ class ChatBotHIUAI {
                 return reject({
                     httpCode: 500,
                     status: 'error',
-                    message: `Gửi câu hỏi không thành công.`,
+                    message: 'Gửi câu hỏi không thành công,\nvui lòng liên hệ quản trị viên\nhoặc thử lại sau',
                 });
             }
         });
@@ -216,6 +216,7 @@ class ChatBotHIUAI {
 
         try {
             const answer = (await this.fetchAnswer(question)).data.answer;
+            // const answer = this.getRandomAnswer();
             const answerMessage = new AnswerMessage(answer);
             this.hideTypingIndicator();
             // this.addTypingMessage(answerMessage);
