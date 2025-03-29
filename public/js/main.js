@@ -268,6 +268,7 @@ function toggleFullScreenChatbotHIUAI() {
             elem.classList.remove('ios-fullscreen');
             document.body.classList.remove('no-scroll'); // Mở khóa scroll
             btnImg.src = './public/images/fullscreen-icon.png';
+            elem.scrollIntoView();
         } else {
             if (document.exitFullscreen) {
                 document.exitFullscreen();
@@ -285,17 +286,6 @@ function toggleFullScreenChatbotHIUAI() {
         }
     }
 }
-
-// Thoát fullscreen iOS khi click vào bất kỳ đâu ngoài chatbot
-document.addEventListener('click', function (event) {
-    let elem = document.getElementById('hiu_chatbot_ai');
-    if (elem.classList.contains('ios-fullscreen') && !elem.contains(event.target)) {
-        elem.classList.remove('ios-fullscreen');
-        document.body.classList.remove('no-scroll'); // Mở khóa scroll
-        let btnImg = document.querySelector('#chatbot__fullscreen img');
-        btnImg.src = './public/images/fullscreen-icon.png';
-    }
-});
 
 // Lắng nghe sự kiện thoát fullscreen
 document.addEventListener('fullscreenchange', exitFullScreenHandler);
