@@ -74,7 +74,7 @@ class QuestionGenerator {
             { title: 'Học ngành {major} tại HIU có gì đặc biệt?', subTitle: 'Trợ lý ảo sẽ bật mí những điểm nổi bật của ngành {major}.' },
         ];
         // this.templateColors = ['__blue', '__red', '__purple', '__orange', '__green', '__cyan', '__pink', '__yellow', ''];
-        this.templateColors = [''];
+        this.templateColors = ['__red', '__blue'];
     }
 
     generateRandomQuestions(majorsInstance, count) {

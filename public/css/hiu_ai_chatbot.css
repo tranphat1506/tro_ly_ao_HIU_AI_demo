@@ -33,7 +33,8 @@
     --gradient-pink: linear-gradient(45deg, #ff1493, #ff69b4, #ffb6c1);
     --gradient-yellow: linear-gradient(45deg, #ffcc00, #ffdb4d, #ffea80);
     --gradient-blue: linear-gradient(45deg, #004e8e, #0077cc, #004e8e, #004e8e);
-    --gradient-red: linear-gradient(20deg, #b80f0b, #df1e25, #ff4d4d, #b80f0b);
+    --gradient-red: linear-gradient(45deg, #c73936, #df1e25, #ff7171, #b80f0b);
+    --gradient-red--45deg: linear-gradient(-45deg, #c73936, #df1e25, #ff7171, #b80f0b);
     --gradient-black: linear-gradient(45deg, #000000, /* Đen tuyệt đối */ #0d0d0d, /* Đen nhám */ #1a1a1a, /* Đen đậm */ #262626, /* Đen xám nhẹ */ #0d0d0d /* Đen nhám */);
     --gradient-blue-mystic: linear-gradient(45deg, #1b1464, #004e8e, #0066cc, #1b1464);
     --gradient-pink-purple: linear-gradient(45deg, #ff1493, #c71585, #b200a3, #ff1493);
@@ -101,7 +102,7 @@
 }
 
 .chatbot__header {
-    background: var(--gradient-red);
+    background: var(--gradient-red--45deg);
     animation: gradientShift 8s infinite linear alternate;
     background-size: 400% 400%;
     box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -2px rgba(0, 0, 0, 0.1);
