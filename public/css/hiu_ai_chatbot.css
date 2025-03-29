@@ -192,7 +192,7 @@
     position: relative;
     flex-direction: column;
     flex: 1;
-    max-height: calc(100vh - 100px - 50px);
+    max-height: calc(100vh - 100px - 50px - 2rem);
 }
 
 .chat_container .example_question__container {
